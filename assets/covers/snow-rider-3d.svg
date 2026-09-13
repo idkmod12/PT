@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#07172e"/><stop offset="1" stop-color="#153e66"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#sky)"/>
+  <circle cx="630" cy="88" r="42" fill="#eaf7ff" opacity=".9"/>
+  <path d="M0 275 160 190l125 83 135-116 145 125 110-82 125 80v170H0Z" fill="#dff4ff"/>
+  <path d="M0 348 180 251l104 65 140-109 141 104 114-72 121 64v147H0Z" fill="#9bd4ee"/>
+  <path d="m346 331 62-121 55 121z" fill="#ff553f"/><path d="m381 260 19-38 17 38z" fill="#fff"/>
+  <text x="42" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="38" font-weight="700">SNOW RIDER 3D</text>
+</svg>
