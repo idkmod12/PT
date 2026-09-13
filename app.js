@@ -63,8 +63,7 @@ function mountGame(){
  frame.addEventListener('load',()=>{$('game-loading').hidden=true;});
  $('frame-container').append(frame);
 }
-function openGame(game,button){currentGame=game;opener=button;$('player-title').textContent=game.title;$('player-category').textContent=game.category;
- const poly=game.id==='polytrack';$('polytrack-credit').hidden=!poly;$('player-note').hidden=poly;mountGame();$('player-dialog').showModal();$('close-player').focus();}
+function openGame(game){window.open(`./play.html?game=${encodeURIComponent(game.id)}`,'_blank','noopener');}
 async function closeGame(){if(document.fullscreenElement)await document.exitFullscreen().catch(()=>{});$('player-dialog').close();}
 $('player-dialog').addEventListener('close',()=>{$('frame-container').querySelector('iframe')?.remove();currentGame=null;opener?.focus({preventScroll:true});});
 $('close-player').addEventListener('click',closeGame);$('reload-player').addEventListener('click',()=>{if(currentGame)mountGame();});
