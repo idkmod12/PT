@@ -1,7 +1,1 @@
-<!-- wp:html -->
-<style>.mlv-game-shell { max-width: none !important; margin: 0 !important; width: 100vw !important; height: 100vh; height: 100dvh; }</style>
-<!-- /wp:html -->
 
-<!-- wp:shortcode -->
-[mlv_polytrack]
-<!-- /wp:shortcode -->
