@@ -31,16 +31,16 @@ function render(){
   const wrap=node('div','cover-wrap'),img=node('img');img.src=game.image;img.alt='';img.loading='lazy';img.decoding='async';img.width=480;img.height=300;
   const overlay=node('div','play-overlay');overlay.setAttribute('aria-hidden','true');overlay.append(node('span','','▶'));wrap.append(img,overlay);
   const info=node('div','game-info');info.append(node('h3','',game.title),node('p','',game.category));open.append(wrap,info);open.addEventListener('click',()=>openGame(game,open));
-  const favorite=node('button','favorite-button','♡');favorite.setAttribute('aria-label','Favorite '+game.title);favorite.setAttribute('aria-pressed',String(prefs.favorites.includes(game.id)));
-  if(prefs.favorites.includes(game.id))favorite.textContent='♥';
+  const favorite=node('button','favorite-button','☆');favorite.setAttribute('aria-label','Favorite '+game.title);favorite.setAttribute('aria-pressed',String(prefs.favorites.includes(game.id)));
+  if(prefs.favorites.includes(game.id))favorite.textContent='★';
   favorite.addEventListener('click',()=>{
    const selected=prefs.favorites.includes(game.id);prefs.favorites=selected?prefs.favorites.filter(id=>id!==game.id):[...prefs.favorites,game.id];save();
-   if(favoritesOnly){render();$('favorite-filter').focus();}else{favorite.setAttribute('aria-pressed',String(!selected));favorite.textContent=selected?'♡':'♥';$('favorite-count').textContent=prefs.favorites.length;}
+   if(favoritesOnly){render();$('favorite-filter').focus();}else{favorite.setAttribute('aria-pressed',String(!selected));favorite.textContent=selected?'☆':'★';$('favorite-count').textContent=prefs.favorites.length;}
   });card.append(open,favorite);grid.append(card);
  }
  $('total-count').textContent=games.length;$('favorite-count').textContent=prefs.favorites.length;
  $('result-summary').textContent=result.total?`${(result.page-1)*PAGE_SIZE+1}–${Math.min(result.page*PAGE_SIZE,result.total)} of ${result.total} games`:'0 games';
- $('empty-state').hidden=result.total>0;$('empty-title').textContent=favoritesOnly&&!query?'Your favorites start here':'No games found';$('empty-copy').textContent=favoritesOnly&&!query?'Tap the heart on a game to keep it here.':'Try a different game name or category.';
+ $('empty-state').hidden=result.total>0;$('empty-title').textContent=favoritesOnly&&!query?'Your favorites start here':'No games found';$('empty-copy').textContent=favoritesOnly&&!query?'Tap the star on a game to keep it here.':'Try a different game name or category.';
  $('all-filter').classList.toggle('active',!favoritesOnly);$('favorite-filter').classList.toggle('active',favoritesOnly);$('all-filter').setAttribute('aria-pressed',String(!favoritesOnly));$('favorite-filter').setAttribute('aria-pressed',String(favoritesOnly));
  const pagination=$('pagination');pagination.replaceChildren();pagination.hidden=!result.total;
  function pageButton(label,page,disabled=false,active=false){
@@ -76,5 +76,5 @@ $('reset-filter').addEventListener('click',()=>{query='';$('search').value='';fa
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!$('player-dialog').open&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();view('library');$('search').focus();}});
 window.addEventListener('storage',e=>{if(e.key===STORAGE_KEY){prefs=readPreferences(storage);applyTheme();render();}});
 renderThemes();applyTheme();view(location.hash.slice(1));
-try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==1000)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
+try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==2500)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
 catch{$('result-summary').textContent='The library could not load. Please refresh to try again.';}
