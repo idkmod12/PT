@@ -38,7 +38,7 @@ function render(){
    if(favoritesOnly){render();$('favorite-filter').focus();}else{favorite.setAttribute('aria-pressed',String(!selected));favorite.textContent=selected?'☆':'★';$('favorite-count').textContent=prefs.favorites.length;}
   });card.append(open,favorite);grid.append(card);
  }
- $('total-count').textContent=games.length;$('favorite-count').textContent=prefs.favorites.length;
+ $('total-count').textContent=games.length;$('favorite-count').textContent=prefs.favorites.length;const footerCount=document.querySelector('.site-footer>span:nth-child(2)');if(footerCount)footerCount.textContent=`${games.length} GAMES / ${result.pages} PAGE${result.pages===1?'':'S'}`;
  $('result-summary').textContent=result.total?`${(result.page-1)*PAGE_SIZE+1}–${Math.min(result.page*PAGE_SIZE,result.total)} of ${result.total} games`:'0 games';
  $('empty-state').hidden=result.total>0;$('empty-title').textContent=favoritesOnly&&!query?'Your favorites start here':'No games found';$('empty-copy').textContent=favoritesOnly&&!query?'Tap the star on a game to keep it here.':'Try a different game name or category.';
  $('all-filter').classList.toggle('active',!favoritesOnly);$('favorite-filter').classList.toggle('active',favoritesOnly);$('all-filter').setAttribute('aria-pressed',String(!favoritesOnly));$('favorite-filter').setAttribute('aria-pressed',String(favoritesOnly));
@@ -81,5 +81,5 @@ function renderAI(){const list=$('chat-list');list.replaceChildren();for(const c
 function createChat(folder=''){const chat={id:crypto.randomUUID(),title:'New chat',folder,messages:[]};aiData.chats.unshift(chat);aiData.active=chat.id;saveAI();renderAI();}
 $('new-chat').addEventListener('click',()=>createChat());$('new-folder').addEventListener('click',()=>{const name=prompt('Folder name');if(name){aiData.folders.push(name.trim());saveAI();}});$('delete-chat').addEventListener('click',()=>{if(!aiData.active)return;aiData.chats=aiData.chats.filter(chat=>chat.id!==aiData.active);aiData.active=aiData.chats[0]?.id||null;saveAI();renderAI();});$('ai-form').addEventListener('submit',event=>{event.preventDefault();const text=$('ai-input').value.trim();if(!text)return;if(!aiData.active)createChat();const chat=aiData.chats.find(item=>item.id===aiData.active);chat.messages.push({role:'user',text});if(chat.title==='New chat')chat.title=text.slice(0,36);$('ai-input').value='';saveAI();renderAI();});
 renderThemes();applyTheme();renderAI();view(location.hash.slice(1));
-try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==4)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
+try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length===0)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
 catch{$('result-summary').textContent='The library could not load. Please refresh to try again.';}
