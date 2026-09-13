@@ -1,4 +1,4 @@
-export const PAGE_SIZE = 100;
+export const PAGE_SIZE = 200;
 export const STORAGE_KEY = 'isaiahs-mlv:preferences:v1';
 const palettes = [
  ['Default dark','#000000','#0c0c0e','#ff4949'],['Midnight','#060a19','#0e152a','#829bff'],
@@ -19,7 +19,7 @@ export const themes=palettes.map(([name,bg,surface,accent,light=false],index)=>(
 export function readPreferences(storage) {
  try {
   const data=JSON.parse(storage.getItem(STORAGE_KEY)||'{}');
-  return {theme:themes.some(t=>t.id===data?.theme)?data.theme:'default-dark',page:Number.isInteger(data?.page)&&data.page>=1&&data.page<=5?data.page:1,favorites:Array.isArray(data?.favorites)?[...new Set(data.favorites.filter(x=>typeof x==='string'))].slice(0,500):[]};
+  return {theme:themes.some(t=>t.id===data?.theme)?data.theme:'default-dark',page:Number.isInteger(data?.page)&&data.page>=1&&data.page<=5?data.page:1,favorites:Array.isArray(data?.favorites)?[...new Set(data.favorites.filter(x=>typeof x==='string'))].slice(0,1000):[]};
  } catch {return {theme:'default-dark',page:1,favorites:[]};}
 }
 export function selectGames(games,query='',favorites=null) {
