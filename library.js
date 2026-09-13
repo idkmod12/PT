@@ -1,4 +1,4 @@
-export const PAGE_SIZE = 200;
+export const PAGE_SIZE = 20;
 export const STORAGE_KEY = 'isaiahs-mlv:preferences:v1';
 const palettes = [
  ['Default dark','#000000','#0c0c0e','#ff4949'],['Midnight','#060a19','#0e152a','#829bff'],

@@ -47,7 +47,11 @@ function render(){
   const b=node('button','page-button'+(active?' active':'')+(typeof label==='string'?' page-arrow':''),label);b.disabled=disabled;b.setAttribute('aria-label',typeof label==='number'?'Page '+label:label==='←'?'Previous page':'Next page');if(active)b.setAttribute('aria-current','page');
   b.addEventListener('click',()=>{prefs.page=page;save();render();document.querySelector('.library-toolbar').scrollIntoView({block:'start'});$('pagination').querySelector('[aria-current="page"]')?.focus({preventScroll:true});});pagination.append(b);
  }
- pageButton('←',result.page-1,result.page===1);for(let i=1;i<=result.pages;i++)pageButton(i,i,false,i===result.page);pageButton('→',result.page+1,result.page===result.pages);
+ pageButton('←',result.page-1,result.page===1);
+ const pageNumbers=[...new Set([1,result.page-1,result.page,result.page+1,result.pages].filter(page=>page>=1&&page<=result.pages))].sort((a,b)=>a-b);
+ let previous=0;
+ for(const page of pageNumbers){if(page-previous>1)pagination.append(node('span','page-gap','…'));pageButton(page,page,false,page===result.page);previous=page;}
+ pageButton('→',result.page+1,result.page===result.pages);
 }
 function view(name){const settings=name==='settings';$('library-view').hidden=settings;$('settings-view').hidden=!settings;
  for(const key of ['library','settings']){const active=(key==='settings')===settings;$(key+'-tab').classList.toggle('active',active);if(active)$(key+'-tab').setAttribute('aria-current','page');else $(key+'-tab').removeAttribute('aria-current');}
