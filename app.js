@@ -28,7 +28,7 @@ function render(){
  const grid=$('games-grid');grid.replaceChildren();
  for(const game of result.items){
   const card=node('article','game-card'),open=node('button','game-open');open.setAttribute('aria-label','Play '+game.title);
-  const wrap=node('div','cover-wrap'),img=node('img');img.src=game.image;img.alt='';img.loading='lazy';img.decoding='async';img.width=480;img.height=300;
+  const wrap=node('div','cover-wrap'),img=node('img');img.src=game.image;img.alt='';img.loading='lazy';img.decoding='async';img.width=480;img.height=300;img.addEventListener('error',()=>{img.src=`data:image/svg+xml,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300"><rect width="100%" height="100%" fill="#151515"/><text x="50%" y="50%" fill="#f2f2f4" font-family="Arial,sans-serif" font-size="24" text-anchor="middle" dominant-baseline="middle">${game.title.replace(/[<>&]/g,'')}</text></svg>`)}`;},{once:true});
   const overlay=node('div','play-overlay');overlay.setAttribute('aria-hidden','true');overlay.append(node('span','','▶'));wrap.append(img,overlay);
   const info=node('div','game-info');info.append(node('h3','',game.title),node('p','',game.category));open.append(wrap,info);open.addEventListener('click',()=>openGame(game,open));
   const favorite=node('button','favorite-button','☆');favorite.setAttribute('aria-label','Favorite '+game.title);favorite.setAttribute('aria-pressed',String(prefs.favorites.includes(game.id)));
@@ -76,5 +76,5 @@ $('reset-filter').addEventListener('click',()=>{query='';$('search').value='';fa
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!$('player-dialog').open&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();view('library');$('search').focus();}});
 window.addEventListener('storage',e=>{if(e.key===STORAGE_KEY){prefs=readPreferences(storage);applyTheme();render();}});
 renderThemes();applyTheme();view(location.hash.slice(1));
-try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==2500)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
+try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==2443)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
 catch{$('result-summary').textContent='The library could not load. Please refresh to try again.';}

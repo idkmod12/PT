@@ -8002,44 +8002,12 @@
     "source": "https://geography-quiz-10.live/lessons/lesson-505/"
   },
   {
-    "id": "test-geo-1",
-    "title": "Yohoho",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/yohoho",
-    "image": "https://test-geography-15.us/yr/lesson-1.webp",
-    "source": "https://test-geography-15.us/_games/yohoho"
-  },
-  {
     "id": "test-geo-3",
-    "title": "Paperio 3",
+    "title": "Paper.io 3D",
     "category": "BROWSER GAME",
     "src": "https://test-geography-15.us/_games/paperio-3",
     "image": "https://test-geography-15.us/yr/lesson-3.webp",
     "source": "https://test-geography-15.us/_games/paperio-3"
-  },
-  {
-    "id": "test-geo-4",
-    "title": "2048 Hacked",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/2048-hacked",
-    "image": "https://test-geography-15.us/yr/lesson-4.webp",
-    "source": "https://test-geography-15.us/_games/2048-hacked"
-  },
-  {
-    "id": "test-geo-6",
-    "title": "99 Balls",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/99-balls",
-    "image": "https://test-geography-15.us/yr/lesson-6.webp",
-    "source": "https://test-geography-15.us/_games/99-balls"
-  },
-  {
-    "id": "test-geo-8",
-    "title": "Adeventures With Anxiety",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/adeventures-with-anxiety",
-    "image": "https://test-geography-15.us/yr/lesson-8.webp",
-    "source": "https://test-geography-15.us/_games/adeventures-with-anxiety"
   },
   {
     "id": "test-geo-10",
@@ -8051,7 +8019,7 @@
   },
   {
     "id": "test-geo-14",
-    "title": "Arcade Wizard",
+    "title": "Unity WebGL Player | ArcadeWizard",
     "category": "BROWSER GAME",
     "src": "https://test-geography-15.us/_games/arcade-wizard",
     "image": "https://test-geography-15.us/yr/lesson-14.webp",
@@ -8066,30 +8034,6 @@
     "source": "https://test-geography-15.us/_games/avatar-arena"
   },
   {
-    "id": "test-geo-19",
-    "title": "Backrooms 2D",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/backrooms-2d",
-    "image": "https://test-geography-15.us/yr/lesson-19.webp",
-    "source": "https://test-geography-15.us/_games/backrooms-2d"
-  },
-  {
-    "id": "test-geo-20",
-    "title": "Backrooms 3D",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/backrooms-3d",
-    "image": "https://test-geography-15.us/yr/lesson-20.webp",
-    "source": "https://test-geography-15.us/_games/backrooms-3d"
-  },
-  {
-    "id": "test-geo-23",
-    "title": "Baldis Basics",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/baldis-basics",
-    "image": "https://test-geography-15.us/yr/lesson-23.webp",
-    "source": "https://test-geography-15.us/_games/baldis-basics"
-  },
-  {
     "id": "test-geo-24",
     "title": "Basket And Ball",
     "category": "BROWSER GAME",
@@ -8098,76 +8042,12 @@
     "source": "https://test-geography-15.us/_games/basket-and-ball"
   },
   {
-    "id": "test-geo-26",
-    "title": "Basket Stars",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/basket-stars",
-    "image": "https://test-geography-15.us/yr/lesson-26.webp",
-    "source": "https://test-geography-15.us/_games/basket-stars"
-  },
-  {
-    "id": "test-geo-28",
-    "title": "Bear On A Scooter",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/bear-on-a-scooter",
-    "image": "https://test-geography-15.us/yr/lesson-28.webp",
-    "source": "https://test-geography-15.us/_games/bear-on-a-scooter"
-  },
-  {
     "id": "test-geo-32",
     "title": "Bloonstd 5",
     "category": "BROWSER GAME",
     "src": "https://test-geography-15.us/_games/bloonstd-5",
     "image": "https://test-geography-15.us/yr/lesson-32.webp",
     "source": "https://test-geography-15.us/_games/bloonstd-5"
-  },
-  {
-    "id": "test-geo-36",
-    "title": "Bound Land",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/bound-land",
-    "image": "https://test-geography-15.us/yr/lesson-36.webp",
-    "source": "https://test-geography-15.us/_games/bound-land"
-  },
-  {
-    "id": "test-geo-40",
-    "title": "Burrito Bison Launch A Libre",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/burrito-bison-launch-a-libre",
-    "image": "https://test-geography-15.us/yr/lesson-40.webp",
-    "source": "https://test-geography-15.us/_games/burrito-bison-launch-a-libre"
-  },
-  {
-    "id": "test-geo-55",
-    "title": "Dodge",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/dodge",
-    "image": "https://test-geography-15.us/yr/lesson-55.webp",
-    "source": "https://test-geography-15.us/_games/dodge"
-  },
-  {
-    "id": "test-geo-56",
-    "title": "Doge Miner",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/doge-miner",
-    "image": "https://test-geography-15.us/yr/lesson-56.webp",
-    "source": "https://test-geography-15.us/_games/doge-miner"
-  },
-  {
-    "id": "test-geo-64",
-    "title": "Duck Life 2",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/duck-life-2",
-    "image": "https://test-geography-15.us/yr/lesson-64.webp",
-    "source": "https://test-geography-15.us/_games/duck-life-2"
-  },
-  {
-    "id": "test-geo-65",
-    "title": "Duck Life 3",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/duck-life-3",
-    "image": "https://test-geography-15.us/yr/lesson-65.webp",
-    "source": "https://test-geography-15.us/_games/duck-life-3"
   },
   {
     "id": "test-geo-67",
@@ -8194,156 +8074,12 @@
     "source": "https://test-geography-15.us/_games/fancy-pants-2"
   },
   {
-    "id": "test-geo-76",
-    "title": "Fireboy And Watergirl",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/fireboy-and-watergirl",
-    "image": "https://test-geography-15.us/yr/lesson-76.webp",
-    "source": "https://test-geography-15.us/_games/fireboy-and-watergirl"
-  },
-  {
-    "id": "test-geo-77",
-    "title": "Fireboy And Watergirl 2",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/fireboy-and-watergirl-2",
-    "image": "https://test-geography-15.us/yr/lesson-77.webp",
-    "source": "https://test-geography-15.us/_games/fireboy-and-watergirl-2"
-  },
-  {
-    "id": "test-geo-78",
-    "title": "Fireboy And Watergirl 3",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/fireboy-and-watergirl-3",
-    "image": "https://test-geography-15.us/yr/lesson-78.webp",
-    "source": "https://test-geography-15.us/_games/fireboy-and-watergirl-3"
-  },
-  {
-    "id": "test-geo-79",
-    "title": "Fireboy And Watergirl 4",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/fireboy-and-watergirl-4",
-    "image": "https://test-geography-15.us/yr/lesson-79.webp",
-    "source": "https://test-geography-15.us/_games/fireboy-and-watergirl-4"
-  },
-  {
-    "id": "test-geo-85",
-    "title": "Geometry Neon Dash Rainbow",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/geometry-neon-dash-rainbow",
-    "image": "https://test-geography-15.us/yr/lesson-85.webp",
-    "source": "https://test-geography-15.us/_games/geometry-neon-dash-rainbow"
-  },
-  {
-    "id": "test-geo-91",
-    "title": "Guess The Number",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/guess-the-number",
-    "image": "https://test-geography-15.us/yr/lesson-91.webp",
-    "source": "https://test-geography-15.us/_games/guess-the-number"
-  },
-  {
     "id": "test-geo-93",
     "title": "Gunmayhem",
     "category": "BROWSER GAME",
     "src": "https://test-geography-15.us/_games/gunmayhem",
     "image": "https://test-geography-15.us/yr/lesson-93.webp",
     "source": "https://test-geography-15.us/_games/gunmayhem"
-  },
-  {
-    "id": "test-geo-95",
-    "title": "Gurat Amberine",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/gurat-amberine",
-    "image": "https://test-geography-15.us/yr/lesson-95.webp",
-    "source": "https://test-geography-15.us/_games/gurat-amberine"
-  },
-  {
-    "id": "test-geo-98",
-    "title": "Helios",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/helios",
-    "image": "https://test-geography-15.us/yr/lesson-98.webp",
-    "source": "https://test-geography-15.us/_games/helios"
-  },
-  {
-    "id": "test-geo-109",
-    "title": "Klocki",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/klocki",
-    "image": "https://test-geography-15.us/yr/lesson-109.webp",
-    "source": "https://test-geography-15.us/_games/klocki"
-  },
-  {
-    "id": "test-geo-114",
-    "title": "Mine Clone",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/mine-clone",
-    "image": "https://test-geography-15.us/yr/lesson-114.webp",
-    "source": "https://test-geography-15.us/_games/mine-clone"
-  },
-  {
-    "id": "test-geo-115",
-    "title": "Minecraft 15",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/minecraft-15",
-    "image": "https://test-geography-15.us/yr/lesson-115.webp",
-    "source": "https://test-geography-15.us/_games/minecraft-15"
-  },
-  {
-    "id": "test-geo-116",
-    "title": "Minecraft 18",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/minecraft-18",
-    "image": "https://test-geography-15.us/yr/lesson-116.webp",
-    "source": "https://test-geography-15.us/_games/minecraft-18"
-  },
-  {
-    "id": "test-geo-118",
-    "title": "Minesweeper",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/minesweeper",
-    "image": "https://test-geography-15.us/yr/lesson-118.webp",
-    "source": "https://test-geography-15.us/_games/minesweeper"
-  },
-  {
-    "id": "test-geo-124",
-    "title": "Moto X3M Spooky",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/moto-x3m-spooky",
-    "image": "https://test-geography-15.us/yr/lesson-124.webp",
-    "source": "https://test-geography-15.us/_games/moto-x3m-spooky"
-  },
-  {
-    "id": "test-geo-126",
-    "title": "Nba Jam",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/nba-jam",
-    "image": "https://test-geography-15.us/yr/lesson-126.webp",
-    "source": "https://test-geography-15.us/_games/nba-jam"
-  },
-  {
-    "id": "test-geo-127",
-    "title": "New Super Mario Bros",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/new-super-mario-bros",
-    "image": "https://test-geography-15.us/yr/lesson-127.webp",
-    "source": "https://test-geography-15.us/_games/new-super-mario-bros"
-  },
-  {
-    "id": "test-geo-130",
-    "title": "Ovo 144",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/ovo-144",
-    "image": "https://test-geography-15.us/yr/lesson-130.webp",
-    "source": "https://test-geography-15.us/_games/ovo-144"
-  },
-  {
-    "id": "test-geo-131",
-    "title": "Ovo 3 Dimensions",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/ovo-3-dimensions",
-    "image": "https://test-geography-15.us/yr/lesson-131.webp",
-    "source": "https://test-geography-15.us/_games/ovo-3-dimensions"
   },
   {
     "id": "test-geo-134",
@@ -8418,46 +8154,6 @@
     "source": "https://test-geography-15.us/_games/papas-pizzera"
   },
   {
-    "id": "test-geo-151",
-    "title": "Paper Minecraft",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/paper-minecraft",
-    "image": "https://test-geography-15.us/yr/lesson-151.webp",
-    "source": "https://test-geography-15.us/_games/paper-minecraft"
-  },
-  {
-    "id": "test-geo-157",
-    "title": "Pixel Gun Survival",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/pixel-gun-survival",
-    "image": "https://test-geography-15.us/yr/lesson-157.webp",
-    "source": "https://test-geography-15.us/_games/pixel-gun-survival"
-  },
-  {
-    "id": "test-geo-158",
-    "title": "Plactions",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/plactions",
-    "image": "https://test-geography-15.us/yr/lesson-158.webp",
-    "source": "https://test-geography-15.us/_games/plactions"
-  },
-  {
-    "id": "test-geo-159",
-    "title": "Plants Vs Zombies",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/plants-vs-zombies",
-    "image": "https://test-geography-15.us/yr/lesson-159.webp",
-    "source": "https://test-geography-15.us/_games/plants-vs-zombies"
-  },
-  {
-    "id": "test-geo-165",
-    "title": "Rabbit Samurai 3",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/rabbit-samurai-3",
-    "image": "https://test-geography-15.us/yr/lesson-165.webp",
-    "source": "https://test-geography-15.us/_games/rabbit-samurai-3"
-  },
-  {
     "id": "test-geo-166",
     "title": "Raft Wars",
     "category": "BROWSER GAME",
@@ -8506,160 +8202,8 @@
     "source": "https://test-geography-15.us/_games/roblox"
   },
   {
-    "id": "test-geo-179",
-    "title": "Rock Paper Scissors",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/rock-paper-scissors",
-    "image": "https://test-geography-15.us/yr/lesson-179.webp",
-    "source": "https://test-geography-15.us/_games/rock-paper-scissors"
-  },
-  {
-    "id": "test-geo-180",
-    "title": "Rocking Sky Trip",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/rocking-sky-trip",
-    "image": "https://test-geography-15.us/yr/lesson-180.webp",
-    "source": "https://test-geography-15.us/_games/rocking-sky-trip"
-  },
-  {
-    "id": "test-geo-183",
-    "title": "Rooftop Snipers 3",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/rooftop-snipers-3",
-    "image": "https://test-geography-15.us/yr/lesson-183.webp",
-    "source": "https://test-geography-15.us/_games/rooftop-snipers-3"
-  },
-  {
-    "id": "test-geo-184",
-    "title": "Roots",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/roots",
-    "image": "https://test-geography-15.us/yr/lesson-184.webp",
-    "source": "https://test-geography-15.us/_games/roots"
-  },
-  {
-    "id": "test-geo-207",
-    "title": "Super Game Maker",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/super-game-maker",
-    "image": "https://test-geography-15.us/yr/lesson-207.webp",
-    "source": "https://test-geography-15.us/_games/super-game-maker"
-  },
-  {
-    "id": "test-geo-208",
-    "title": "Super Mario 64",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/super-mario-64",
-    "image": "https://test-geography-15.us/yr/lesson-208.webp",
-    "source": "https://test-geography-15.us/_games/super-mario-64"
-  },
-  {
-    "id": "test-geo-210",
-    "title": "Terraira",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/terraira",
-    "image": "https://test-geography-15.us/yr/lesson-210.webp",
-    "source": "https://test-geography-15.us/_games/terraira"
-  },
-  {
-    "id": "test-geo-211",
-    "title": "Territorial",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/territorial",
-    "image": "https://test-geography-15.us/yr/lesson-211.webp",
-    "source": "https://test-geography-15.us/_games/territorial"
-  },
-  {
-    "id": "test-geo-221",
-    "title": "Tiny Fishing 2",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/tiny-fishing-2",
-    "image": "https://test-geography-15.us/yr/lesson-221.webp",
-    "source": "https://test-geography-15.us/_games/tiny-fishing-2"
-  },
-  {
-    "id": "test-geo-224",
-    "title": "Tough Growth",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/tough-growth",
-    "image": "https://test-geography-15.us/yr/lesson-224.webp",
-    "source": "https://test-geography-15.us/_games/tough-growth"
-  },
-  {
-    "id": "test-geo-225",
-    "title": "Trimps",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/trimps",
-    "image": "https://test-geography-15.us/yr/lesson-225.webp",
-    "source": "https://test-geography-15.us/_games/trimps"
-  },
-  {
-    "id": "test-geo-226",
-    "title": "Tube Jumpers",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/tube-jumpers",
-    "image": "https://test-geography-15.us/yr/lesson-226.webp",
-    "source": "https://test-geography-15.us/_games/tube-jumpers"
-  },
-  {
-    "id": "test-geo-228",
-    "title": "Tunnel Rush 2",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/tunnel-rush-2",
-    "image": "https://test-geography-15.us/yr/lesson-228.webp",
-    "source": "https://test-geography-15.us/_games/tunnel-rush-2"
-  },
-  {
-    "id": "test-geo-236",
-    "title": "Vex7",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/vex7",
-    "image": "https://test-geography-15.us/yr/lesson-236.webp",
-    "source": "https://test-geography-15.us/_games/vex7"
-  },
-  {
-    "id": "test-geo-237",
-    "title": "Vexv6",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/vexv6",
-    "image": "https://test-geography-15.us/yr/lesson-237.webp",
-    "source": "https://test-geography-15.us/_games/vexv6"
-  },
-  {
-    "id": "test-geo-238",
-    "title": "Vexv7",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/vexv7",
-    "image": "https://test-geography-15.us/yr/lesson-238.webp",
-    "source": "https://test-geography-15.us/_games/vexv7"
-  },
-  {
-    "id": "test-geo-241",
-    "title": "Wordle",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/wordle",
-    "image": "https://test-geography-15.us/yr/lesson-241.webp",
-    "source": "https://test-geography-15.us/_games/wordle"
-  },
-  {
-    "id": "test-geo-242",
-    "title": "Worlds Hardest Game",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/worlds-hardest-game",
-    "image": "https://test-geography-15.us/yr/lesson-242.webp",
-    "source": "https://test-geography-15.us/_games/worlds-hardest-game"
-  },
-  {
-    "id": "test-geo-243",
-    "title": "Worlds Hardest Game 2",
-    "category": "BROWSER GAME",
-    "src": "https://test-geography-15.us/_games/worlds-hardest-game-2",
-    "image": "https://test-geography-15.us/yr/lesson-243.webp",
-    "source": "https://test-geography-15.us/_games/worlds-hardest-game-2"
-  },
-  {
     "id": "test-geo-244",
-    "title": "1V1 Lol",
+    "title": "1v1 LOL",
     "category": "BROWSER GAME",
     "src": "https://test-geography-15.us/_games/1v1-lol",
     "image": "https://test-geography-15.us/yr/lesson-244.webp",
