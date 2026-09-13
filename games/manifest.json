@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "basePath": "/games/",
+  "notes": "Place each licensed game in games/<slug>/ with an index.html entry point.",
+  "games": []
+}
