@@ -53,8 +53,8 @@ function render(){
  for(const page of pageNumbers){if(page-previous>1)pagination.append(node('span','page-gap','…'));pageButton(page,page,false,page===result.page);previous=page;}
  pageButton('→',result.page+1,result.page===result.pages);
 }
-function view(name){const settings=name==='settings';$('library-view').hidden=settings;$('settings-view').hidden=!settings;
- for(const key of ['library','settings']){const active=(key==='settings')===settings;$(key+'-tab').classList.toggle('active',active);if(active)$(key+'-tab').setAttribute('aria-current','page');else $(key+'-tab').removeAttribute('aria-current');}
+function view(name){const active=['library','ai','settings'].includes(name)?name:'library';$('library-view').hidden=active!=='library';$('ai-view').hidden=active!=='ai';$('settings-view').hidden=active!=='settings';
+ for(const key of ['library','ai','settings']){const selected=key===active;$(key+'-tab').classList.toggle('active',selected);if(selected)$(key+'-tab').setAttribute('aria-current','page');else $(key+'-tab').removeAttribute('aria-current');}
 }
 function mountGame(){
  $('frame-container').querySelector('iframe')?.remove();$('game-loading').hidden=false;
@@ -68,12 +68,18 @@ async function closeGame(){if(document.fullscreenElement)await document.exitFull
 $('player-dialog').addEventListener('close',()=>{$('frame-container').querySelector('iframe')?.remove();currentGame=null;opener?.focus({preventScroll:true});});
 $('close-player').addEventListener('click',closeGame);$('reload-player').addEventListener('click',()=>{if(currentGame)mountGame();});
 $('fullscreen-player').addEventListener('click',async()=>{try{if(document.fullscreenElement)await document.exitFullscreen();else await $('player-shell').requestFullscreen();}catch{$('player-note').hidden=false;$('player-note').textContent='Fullscreen is unavailable in this browser. You can keep playing here.';}});
-$('library-tab').addEventListener('click',()=>{location.hash='library';view('library');});$('settings-tab').addEventListener('click',()=>{location.hash='settings';view('settings');});window.addEventListener('hashchange',()=>view(location.hash.slice(1)));
+$('library-tab').addEventListener('click',()=>{location.hash='library';view('library');});$('ai-tab').addEventListener('click',()=>{location.hash='ai';view('ai');});$('settings-tab').addEventListener('click',()=>{location.hash='settings';view('settings');});window.addEventListener('hashchange',()=>view(location.hash.slice(1)));
 $('search').addEventListener('input',e=>{query=e.target.value;prefs.page=1;render();});
 $('all-filter').addEventListener('click',()=>{favoritesOnly=false;prefs.page=1;save();render();});$('favorite-filter').addEventListener('click',()=>{favoritesOnly=true;prefs.page=1;render();});
 $('reset-filter').addEventListener('click',()=>{query='';$('search').value='';favoritesOnly=false;prefs.page=1;render();});
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!$('player-dialog').open&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();view('library');$('search').focus();}});
 window.addEventListener('storage',e=>{if(e.key===STORAGE_KEY){prefs=readPreferences(storage);applyTheme();render();}});
-renderThemes();applyTheme();view(location.hash.slice(1));
-try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==1)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
+const AI_KEY='isaiahs-mlv:ai:v1';let aiData={chats:[],folders:[],active:null};
+try{aiData=Object.assign(aiData,JSON.parse(storage?.getItem(AI_KEY)||'{}'));}catch{}
+function saveAI(){try{storage?.setItem(AI_KEY,JSON.stringify(aiData));}catch{}}
+function renderAI(){const list=$('chat-list');list.replaceChildren();for(const chat of aiData.chats){const row=node('button','chat-item'+(chat.id===aiData.active?' active':''),chat.title);row.addEventListener('click',()=>{aiData.active=chat.id;saveAI();renderAI();});list.append(row);}const active=aiData.chats.find(chat=>chat.id===aiData.active);$('ai-heading').textContent=active?.title||'New chat';const messages=$('ai-messages');messages.replaceChildren();if(!active){messages.append(node('p','ai-empty','Start a chat to save your messages here.'));return;}for(const message of active.messages||[])messages.append(node('p','ai-message '+message.role,message.text));}
+function createChat(folder=''){const chat={id:crypto.randomUUID(),title:'New chat',folder,messages:[]};aiData.chats.unshift(chat);aiData.active=chat.id;saveAI();renderAI();}
+$('new-chat').addEventListener('click',()=>createChat());$('new-folder').addEventListener('click',()=>{const name=prompt('Folder name');if(name){aiData.folders.push(name.trim());saveAI();}});$('delete-chat').addEventListener('click',()=>{if(!aiData.active)return;aiData.chats=aiData.chats.filter(chat=>chat.id!==aiData.active);aiData.active=aiData.chats[0]?.id||null;saveAI();renderAI();});$('ai-form').addEventListener('submit',event=>{event.preventDefault();const text=$('ai-input').value.trim();if(!text)return;if(!aiData.active)createChat();const chat=aiData.chats.find(item=>item.id===aiData.active);chat.messages.push({role:'user',text});if(chat.title==='New chat')chat.title=text.slice(0,36);$('ai-input').value='';saveAI();renderAI();});
+renderThemes();applyTheme();renderAI();view(location.hash.slice(1));
+try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==3)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
 catch{$('result-summary').textContent='The library could not load. Please refresh to try again.';}

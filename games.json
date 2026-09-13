@@ -7,5 +7,21 @@
     "image": "./game/images/icons/cover1920x1080.png",
     "source": "https://www.kodub.com/",
     "local": true
+  },
+  {
+    "id": "coderslife",
+    "title": "CodersLife",
+    "category": "CUSTOM GAME",
+    "src": "./games/coderslife/index.html",
+    "image": "./assets/covers/isaiah-custom.svg",
+    "source": "Local game made by Isaiah"
+  },
+  {
+    "id": "rainbet",
+    "title": "RainBet",
+    "category": "CUSTOM GAME",
+    "src": "./games/rainbet/index.html",
+    "image": "./assets/covers/isaiah-custom.svg",
+    "source": "Local game made by Isaiah"
   }
 ]
