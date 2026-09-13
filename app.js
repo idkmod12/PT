@@ -75,5 +75,5 @@ $('reset-filter').addEventListener('click',()=>{query='';$('search').value='';fa
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!$('player-dialog').open&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();view('library');$('search').focus();}});
 window.addEventListener('storage',e=>{if(e.key===STORAGE_KEY){prefs=readPreferences(storage);applyTheme();render();}});
 renderThemes();applyTheme();view(location.hash.slice(1));
-try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==2500)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
+try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length!==2)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
 catch{$('result-summary').textContent='The library could not load. Please refresh to try again.';}
