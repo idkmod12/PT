@@ -21,8 +21,7 @@ const palettes = [
  ['Rosewater','#fff2f0','#ffffff','#bd5951',true],['Glacier','#edf8fb','#ffffff','#2a839d',true],['Pistachio','#f4faec','#ffffff','#628b2c',true],
  ['Butter','#fff9df','#ffffff','#a87900',true],['Coral','#fff0eb','#ffffff','#d55438',true],['Denim','#eff4ff','#ffffff','#3d69b8',true],
  ['Orchid','#fdf0ff','#ffffff','#a54ab1',true],['Ivory','#fffdf7','#ffffff','#8a653d',true],['Aqua','#eafdff','#ffffff','#168ea3',true],
- ['Silver','#f4f5f6','#ffffff','#5c6976',true],['Spring','#f0fff4','#ffffff','#38884d',true],['Cherry Blossom','#fff0f6','#ffffff','#c14578',true],
- ['Citrus','#fffbea','#ffffff','#a87c00',true]
+ ['Silver','#f4f5f6','#ffffff','#5c6976',true],['Spring','#f0fff4','#ffffff','#38884d',true]
 ];
 export const themes=palettes.map(([name,bg,surface,accent,light=false],index)=>({id:index===0?'default-dark':name.toLowerCase(),name,bg,surface,accent,light}));
 export function readPreferences(storage) {
