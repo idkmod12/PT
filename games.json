@@ -7,14 +7,5 @@
     "image": "./game/images/icons/cover1920x1080.png",
     "source": "https://www.kodub.com/",
     "local": true
-  },
-  {
-    "id": "2048",
-    "title": "2048",
-    "category": "OPEN SOURCE",
-    "src": "https://gabrielecirulli.github.io/2048/",
-    "image": "https://raw.githubusercontent.com/gabrielecirulli/2048/master/meta/apple-touch-icon.png",
-    "source": "https://github.com/gabrielecirulli/2048",
-    "license": "MIT"
   }
 ]
