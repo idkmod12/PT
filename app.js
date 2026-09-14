@@ -63,7 +63,7 @@ function mountGame(){
  frame.addEventListener('load',()=>{$('game-loading').hidden=true;});
  $('frame-container').append(frame);
 }
-function openGame(game){window.open(`./play.html?game=${encodeURIComponent(game.id)}`,'_blank','noopener');}
+function openGame(game){window.open(game.hostUrl || ('./play.html?game='+encodeURIComponent(game.id)),'_blank','noopener');}
 async function closeGame(){if(document.fullscreenElement)await document.exitFullscreen().catch(()=>{});$('player-dialog').close();}
 $('player-dialog').addEventListener('close',()=>{$('frame-container').querySelector('iframe')?.remove();currentGame=null;opener?.focus({preventScroll:true});});
 $('close-player').addEventListener('click',closeGame);$('reload-player').addEventListener('click',()=>{if(currentGame)mountGame();});
