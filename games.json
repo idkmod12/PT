@@ -117,5 +117,195 @@
     "image": "./assets/covers/moto-x3m-3.webp",
     "source": "Local HTML5 build",
     "hostUrl": "https://mlvgs4.vercel.app/games/moto-x3m-3/index.html"
+  },
+  {
+    "id": "ccg-hollow-knight",
+    "title": "Hollow Knight",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/hollow-knight/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/hollow-knight/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/hollow-knight/index.html"
+  },
+  {
+    "id": "ccg-getting-over-it",
+    "title": "Getting Over It",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/getting-over-it/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/getting-over-it/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/getting-over-it/index.html"
+  },
+  {
+    "id": "ccg-deltarune",
+    "title": "Deltarune",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/deltarune/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/deltarune/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/deltarune/index.html"
+  },
+  {
+    "id": "ccg-toss-the-turtle",
+    "title": "Toss The Turtle",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/toss-the-turtle/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/toss-the-turtle/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/toss-the-turtle/index.html"
+  },
+  {
+    "id": "ccg-raft",
+    "title": "Raft",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/raft/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/raft/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/raft/index.html"
+  },
+  {
+    "id": "ccg-ballz",
+    "title": "BallZ",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/ballz/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/ballz/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/ballz/index.html"
+  },
+  {
+    "id": "ccg-spacebar-clicker",
+    "title": "Spacebar Clicker",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/spacebar-clicker/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/spacebar-clicker/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/spacebar-clicker/index.html"
+  },
+  {
+    "id": "ccg-undertale-yellow",
+    "title": "Undertale Yellow",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/undertale-yellow/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/undertale-yellow/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/undertale-yellow/index.html"
+  },
+  {
+    "id": "ccg-solitaire",
+    "title": "Solitaire",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/solitaire/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/solitaire/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/solitaire/index.html"
+  },
+  {
+    "id": "ccg-stack",
+    "title": "Stack",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/stack/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/stack/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/stack/index.html"
+  },
+  {
+    "id": "ccg-the-binding-of-isaac",
+    "title": "The Binding Of Isaac",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/the-binding-of-isaac/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/the-binding-of-isaac/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/the-binding-of-isaac/index.html"
+  },
+  {
+    "id": "ccg-space-huggers",
+    "title": "Space Huggers",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/space-huggers/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/space-huggers/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/space-huggers/index.html"
+  },
+  {
+    "id": "ccg-ovo",
+    "title": "OVO",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/ovo/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/ovo/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/ovo/index.html"
+  },
+  {
+    "id": "ccg-skidoo-tt",
+    "title": "Skidoo TT",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/skidoo-tt/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/skidoo-tt/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/skidoo-tt/index.html"
+  },
+  {
+    "id": "ccg-chess",
+    "title": "Chess",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/chess/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/chess/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/chess/index.html"
+  },
+  {
+    "id": "ccg-bloons-tower-defense-1",
+    "title": "Bloons Tower Defense 1",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/bloons-tower-defense-1/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/bloons-tower-defense-1/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/bloons-tower-defense-1/index.html"
+  },
+  {
+    "id": "ccg-2048",
+    "title": "2048",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/2048/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/2048/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/2048/index.html"
+  },
+  {
+    "id": "ccg-just-one-boss",
+    "title": "Just One Boss",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/just-one-boss/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/just-one-boss/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/just-one-boss/index.html"
+  },
+  {
+    "id": "ccg-riddle-school",
+    "title": "Riddle School",
+    "category": "Arcade",
+    "src": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/riddle-school/index.html",
+    "image": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/riddle-school/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgsSystem.Management.Automation.Internal.Host.InternalHost.vercel.app/games/riddle-school/index.html"
   }
 ]
