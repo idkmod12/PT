@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="access-locked">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#000000">
 <title>Isaiah's MLV</title><link rel="icon" href="./assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css"><script type="module" src="./play.js"></script>
 </head>
-<body class="play-page">
+<body class="play-page"><section id="access-gate" aria-label="Site password"><div class="access-card"><h1>Isaiah's MLV</h1><p>Enter the password to access the game.</p><form id="access-form"><input id="access-password" type="password" autocomplete="off" placeholder="Password" aria-label="Password" required><button type="submit">Enter</button></form><p id="access-error" class="access-error" role="alert" hidden></p></div></section><script src="./access.js" defer></script>
 <main class="standalone-player">
  <header class="player-toolbar"><a class="secondary-button" href="./">← Library</a><div class="player-label"><h1 id="player-title">Opening game…</h1><span id="player-category"></span></div><button id="fullscreen-player" class="icon-button" title="Fullscreen" aria-label="Fullscreen">⛶</button></header>
  <div id="frame-container" class="frame-container"><p id="game-loading" class="game-loading" role="status">Opening game…</p></div>

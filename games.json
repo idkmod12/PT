@@ -48,5 +48,61 @@
     "src": "./games/slope/index.html",
     "image": "./assets/covers/slope.jpg",
     "source": "Local WebGL build"
+  },
+  {
+    "id": "tiny-fishing",
+    "title": "Tiny Fishing",
+    "category": "Casual",
+    "src": "./games/tiny-fishing/index.html",
+    "image": "./assets/covers/tiny-fishing.png",
+    "source": "Local HTML5 build"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "category": "Racing",
+    "src": "./games/moto-x3m/index.html",
+    "image": "./assets/covers/moto-x3m.jpg",
+    "source": "Local HTML5 build"
+  },
+  {
+    "id": "moto-x3m-spooky-land",
+    "title": "Moto X3M Spooky Land",
+    "category": "Racing",
+    "src": "./games/moto-x3m-spooky-land/index.html",
+    "image": "./assets/covers/moto-x3m-spooky-land.webp",
+    "source": "Local HTML5 build"
+  },
+  {
+    "id": "moto-x3m-winter",
+    "title": "Moto X3M Winter",
+    "category": "Racing",
+    "src": "./games/moto-x3m-winter/index.html",
+    "image": "./assets/covers/moto-x3m-winter.webp",
+    "source": "Local HTML5 build"
+  },
+  {
+    "id": "moto-x3m-pool-party",
+    "title": "Moto X3M Pool Party",
+    "category": "Racing",
+    "src": "./games/moto-x3m-pool-party/index.html",
+    "image": "./assets/covers/moto-x3m-pool-party.webp",
+    "source": "Local HTML5 build"
+  },
+  {
+    "id": "moto-x3m-2",
+    "title": "Moto X3M 2",
+    "category": "Racing",
+    "src": "./games/moto-x3m-2/index.html",
+    "image": "./assets/covers/moto-x3m-2.webp",
+    "source": "Local HTML5 build"
+  },
+  {
+    "id": "moto-x3m-3",
+    "title": "Moto X3M 3",
+    "category": "Racing",
+    "src": "./games/moto-x3m-3/index.html",
+    "image": "./assets/covers/moto-x3m-3.webp",
+    "source": "Local HTML5 build"
   }
 ]
