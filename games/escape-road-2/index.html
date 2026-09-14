@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+  <title>Escape Road 2</title>
+  <style>
+    html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#111;color:#fff;font-family:system-ui,sans-serif}
+    #game{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+    #unity-canvas{width:100%;height:100%;background:#111}
+    #loading{position:fixed;inset:0;display:grid;place-items:center;background:#111;z-index:2}
+    #loading-card{width:min(420px,80vw);text-align:center}
+    #loading img{max-width:100%;max-height:35vh;object-fit:contain}
+    #progress{height:8px;background:#333;border-radius:99px;overflow:hidden;margin-top:18px}
+    #bar{height:100%;width:0;background:#e33;transition:width .15s}
+    #status{margin-top:10px;color:#aaa;font-size:14px}
+  </style>
+</head>
+<body>
+  <div id="loading"><div id="loading-card"><img src="./25102308/logo.png" alt="Escape Road 2"><div id="progress"><div id="bar"></div></div><div id="status">Loading game…</div></div></div>
+  <div id="game"><canvas id="unity-canvas" tabindex="-1"></canvas></div>
+  <script>
+    const build='./Build';
+    const config={dataUrl:build+'/escape-road-2-v25102308.data.unityweb',frameworkUrl:build+'/escape-road-2-v25102308.framework.js.unityweb',codeUrl:build+'/escape-road-2-v25102308.wasm.unityweb',streamingAssetsUrl:'./25102308/StreamingAssets',companyName:'AZ Games',productName:'Escape Road 2',productVersion:'25102308'};
+    const bar=document.querySelector('#bar'),status=document.querySelector('#status'),loading=document.querySelector('#loading'),canvas=document.querySelector('#unity-canvas');
+    const script=document.createElement('script');script.src=build+'/escape-road-2-v25102308.loader.js';
+    script.onload=()=>{createUnityInstance(canvas,config,p=>{bar.style.width=(p*100)+'%';status.textContent='Loading game… '+Math.round(p*100)+'%'}).then(()=>{loading.remove();canvas.focus()}).catch(err=>{status.textContent='Unable to load the game.';console.error(err)})};
+    document.body.appendChild(script);
+  </script>
+</body>
+</html>

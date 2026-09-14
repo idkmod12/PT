@@ -23,5 +23,14 @@
     "src": "./games/rainbet/index.html",
     "image": "./assets/covers/isaiah-custom.svg",
     "source": "Local game made by Isaiah"
+  },
+  {
+    "id": "escape-road-2",
+    "title": "Escape Road 2",
+    "category": "Driving",
+    "src": "./games/escape-road-2/index.html",
+    "image": "./assets/covers/escape-road-2.svg",
+    "source": "Local WebGL build authorized by AZ Games",
+    "local": true
   }
 ]
