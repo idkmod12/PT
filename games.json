@@ -947,5 +947,245 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs4.vercel.app/games/pac-man/index.html"
+  },
+  {
+    "id": "ccg-bloons-tower-defense-5",
+    "title": "Bloons Tower Defense 5",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/bloons-tower-defense-5/index.html",
+    "image": "https://mlvgs1.vercel.app/games/bloons-tower-defense-5/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/bloons-tower-defense-5/index.html"
+  },
+  {
+    "id": "ccg-zombotron-ii",
+    "title": "Zombotron II",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/zombotron-ii/index.html",
+    "image": "https://mlvgs2.vercel.app/games/zombotron-ii/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/zombotron-ii/index.html"
+  },
+  {
+    "id": "ccg-zombotron-ii-time-machine",
+    "title": "Zombotron II: Time Machine",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/zombotron-ii-time-machine/index.html",
+    "image": "https://mlvgs3.vercel.app/games/zombotron-ii-time-machine/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/zombotron-ii-time-machine/index.html"
+  },
+  {
+    "id": "ccg-sandboxels",
+    "title": "Sandboxels",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/sandboxels/index.html",
+    "image": "https://mlvgs4.vercel.app/games/sandboxels/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/sandboxels/index.html"
+  },
+  {
+    "id": "ccg-getaway-shootout",
+    "title": "Getaway Shootout",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/getaway-shootout/index.html",
+    "image": "https://mlvgs1.vercel.app/games/getaway-shootout/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/getaway-shootout/index.html"
+  },
+  {
+    "id": "ccg-papa-s-bakeria",
+    "title": "Papa's Bakeria",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/papa-s-bakeria/index.html",
+    "image": "https://mlvgs2.vercel.app/games/papa-s-bakeria/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/papa-s-bakeria/index.html"
+  },
+  {
+    "id": "ccg-slow-roads",
+    "title": "Slow Roads",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/slow-roads/index.html",
+    "image": "https://mlvgs3.vercel.app/games/slow-roads/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/slow-roads/index.html"
+  },
+  {
+    "id": "ccg-riddle-school-5",
+    "title": "Riddle School 5",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/riddle-school-5/index.html",
+    "image": "https://mlvgs4.vercel.app/games/riddle-school-5/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/riddle-school-5/index.html"
+  },
+  {
+    "id": "ccg-papa-s-sushiria",
+    "title": "Papa's Sushiria",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/papa-s-sushiria/index.html",
+    "image": "https://mlvgs1.vercel.app/games/papa-s-sushiria/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/papa-s-sushiria/index.html"
+  },
+  {
+    "id": "ccg-iron-snout",
+    "title": "Iron Snout",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/iron-snout/index.html",
+    "image": "https://mlvgs2.vercel.app/games/iron-snout/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/iron-snout/index.html"
+  },
+  {
+    "id": "ccg-minecraft",
+    "title": "Minecraft",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/minecraft/index.html",
+    "image": "https://mlvgs3.vercel.app/games/minecraft/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/minecraft/index.html"
+  },
+  {
+    "id": "ccg-learn-to-fly-3",
+    "title": "Learn to Fly 3",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/learn-to-fly-3/index.html",
+    "image": "https://mlvgs4.vercel.app/games/learn-to-fly-3/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/learn-to-fly-3/index.html"
+  },
+  {
+    "id": "ccg-riddle-transfer-2",
+    "title": "Riddle Transfer 2",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/riddle-transfer-2/index.html",
+    "image": "https://mlvgs1.vercel.app/games/riddle-transfer-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/riddle-transfer-2/index.html"
+  },
+  {
+    "id": "ccg-riddle-transfer",
+    "title": "Riddle Transfer",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/riddle-transfer/index.html",
+    "image": "https://mlvgs2.vercel.app/games/riddle-transfer/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/riddle-transfer/index.html"
+  },
+  {
+    "id": "ccg-dance-of-fire-and-ice",
+    "title": "Dance of Fire and Ice",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/dance-of-fire-and-ice/index.html",
+    "image": "https://mlvgs3.vercel.app/games/dance-of-fire-and-ice/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/dance-of-fire-and-ice/index.html"
+  },
+  {
+    "id": "ccg-bitlife",
+    "title": "BitLife",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/bitlife/index.html",
+    "image": "https://mlvgs4.vercel.app/games/bitlife/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/bitlife/index.html"
+  },
+  {
+    "id": "ccg-five-nights-at-freddy-s",
+    "title": "Five Nights At Freddy's",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/five-nights-at-freddy-s/index.html",
+    "image": "https://mlvgs1.vercel.app/games/five-nights-at-freddy-s/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/five-nights-at-freddy-s/index.html"
+  },
+  {
+    "id": "ccg-jetpack-joyride",
+    "title": "Jetpack Joyride",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/jetpack-joyride/index.html",
+    "image": "https://mlvgs2.vercel.app/games/jetpack-joyride/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/jetpack-joyride/index.html"
+  },
+  {
+    "id": "ccg-escape-road",
+    "title": "Escape Road",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/escape-road/index.html",
+    "image": "https://mlvgs3.vercel.app/games/escape-road/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/escape-road/index.html"
+  },
+  {
+    "id": "ccg-retro-bowl",
+    "title": "Retro Bowl",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/retro-bowl/index.html",
+    "image": "https://mlvgs4.vercel.app/games/retro-bowl/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/retro-bowl/index.html"
+  },
+  {
+    "id": "ccg-cut-the-rope",
+    "title": "Cut the Rope",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/cut-the-rope/index.html",
+    "image": "https://mlvgs1.vercel.app/games/cut-the-rope/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/cut-the-rope/index.html"
+  },
+  {
+    "id": "ccg-idle-superpowers",
+    "title": "Idle Superpowers",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/idle-superpowers/index.html",
+    "image": "https://mlvgs2.vercel.app/games/idle-superpowers/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/idle-superpowers/index.html"
+  },
+  {
+    "id": "ccg-friday-night-funkin",
+    "title": "Friday Night Funkin'",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/friday-night-funkin/index.html",
+    "image": "https://mlvgs3.vercel.app/games/friday-night-funkin/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/friday-night-funkin/index.html"
+  },
+  {
+    "id": "ccg-eaglercraftx-1-8",
+    "title": "EaglercraftX 1.8",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/eaglercraftx-1-8/index.html",
+    "image": "https://mlvgs4.vercel.app/games/eaglercraftx-1-8/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/eaglercraftx-1-8/index.html"
   }
 ]
