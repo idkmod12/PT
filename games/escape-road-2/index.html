@@ -1,33 +1,39 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
-  <title>Escape Road 2</title>
-  <style>
-    html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#111;color:#fff;font-family:system-ui,sans-serif}
-    #game{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
-    #unity-container{width:100%;height:100%;background:#111}#unity-canvas{width:100%;height:100%;background:#111;image-rendering:auto}
-    #loading{position:fixed;inset:0;display:grid;place-items:center;background:#111;z-index:2}
-    #loading-card{width:min(420px,80vw);text-align:center}
-    #loading img{max-width:100%;max-height:35vh;object-fit:contain}
-    #progress{height:8px;background:#333;border-radius:99px;overflow:hidden;margin-top:18px}
-    #bar{height:100%;width:0;background:#e33;transition:width .15s}
-    #status{margin-top:10px;color:#aaa;font-size:14px}
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+<title>Escape Road 2</title>
+<style>
+html{box-sizing:border-box;overflow:hidden}*,*:before,*:after{box-sizing:inherit}
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#000}
+#unity-container{width:100vw;height:100vh;position:relative}
+#unity-canvas{position:absolute;inset:0;width:100%;height:100%;display:block;background:#000}
+#loading{position:fixed;inset:0;z-index:5;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#000;color:#fff;font:500 16px system-ui,sans-serif}
+#loading img{width:min(420px,70vw);max-height:35vh;object-fit:contain;border-radius:6px}
+#progress{width:min(300px,65vw);height:8px;margin-top:18px;border-radius:99px;background:#333;overflow:hidden}
+#bar{height:100%;width:0;background:#e33;transition:width .15s}
+#status{margin-top:10px;color:#aaa;font-size:14px}
+</style>
 </head>
 <body>
-  <div id="loading"><div id="loading-card"><img src="./25050801/logo.png" alt="Escape Road 2"><div id="progress"><div id="bar"></div></div><div id="status">Loading game…</div></div></div>
-  <div id="unity-container"><canvas id="unity-canvas" tabindex="-1"></canvas></div>
-  <script>
-    const build='./Build';
-    const config={dataUrl:build+'/escape-road-2-v25050801.data.unityweb',frameworkUrl:build+'/escape-road-2-v25050801.framework.js.unityweb',codeUrl:build+'/escape-road-2-v25050801.wasm.unityweb',streamingAssetsUrl:'./25050801/StreamingAssets',companyName:'CCGStatic / AZ Games',productName:'Escape Road 2',productVersion:'25050801',devicePixelRatio:1,webglContextAttributes:{antialias:false,preserveDrawingBuffer:false,powerPreference:'high-performance'}};
-    const bar=document.querySelector('#bar'),status=document.querySelector('#status'),loading=document.querySelector('#loading'),canvas=document.querySelector('#unity-canvas');
-    canvas.width=960;canvas.height=540;
-    window.gameID='game_286a_64d4e9bec95a5';window.ccPorted={gameID:window.gameID};window.gameInstance=window.gameInstance||{SendMessage:function(){}};window.SendMessage=window.SendMessage||function(){};
-    const script=document.createElement('script');script.src=build+'/escape-road-2-v25050801.loader.js';
-    script.onload=()=>{createUnityInstance(canvas,config,p=>{bar.style.width=(p*100)+'%';status.textContent='Loading game… '+Math.round(p*100)+'%'}).then(()=>{loading.remove();canvas.focus()}).catch(err=>{status.textContent='Unable to load the game.';console.error(err)})};
-    document.body.appendChild(script);
-  </script>
+<div id="unity-container" style="display:none"><canvas id="unity-canvas" tabindex="-1"></canvas></div>
+<div id="loading"><img src="./25050801/loading.png" alt="Escape Road 2"><div id="progress"><div id="bar"></div></div><div id="status">Game Loading...</div></div>
+<script>
+var buildUrl='Build', versionFolder='25050801/';
+var config={
+ dataUrl:buildUrl+'/escape-road-2-v25050801.data.unityweb',
+ frameworkUrl:buildUrl+'/escape-road-2-v25050801.framework.js.unityweb',
+ codeUrl:buildUrl+'/escape-road-2-v25050801.wasm.unityweb',
+ streamingAssetsUrl:versionFolder+'StreamingAssets', companyName:'azgames.io', productName:'Escape Road 2', productVersion:'25050801', pubId:'',
+ gameId:'escape-road-2', eventLog:false, enableMoreGame:'no', enablePromotion:false, gdHost:true, sdkType:'gd', gdGameId:'USE_GD_GAME_ID_CODE'
+};
+var progressElement=document.getElementById('bar'),container=document.getElementById('unity-container'),canvas=document.getElementById('unity-canvas'),loading=document.getElementById('loading'),status=document.getElementById('status');
+var script=document.createElement('script'); script.src=buildUrl+'/escape-road-2-v25050801.loader.js';
+script.onload=function(){createUnityInstance(canvas,config,function(progress){progressElement.style.width=(100*progress)+'%';status.textContent=progress>=.99?'Game Loading ...':'Downloading file: '+Math.round(progress*100)+'%'}).then(function(unityInstance){window.unityInstance=unityInstance;setTimeout(function(){loading.style.display='none';container.style.display='block';canvas.focus();window.focus()},500)}).catch(function(error){status.textContent='Unable to load the game.';console.error(error)})};
+document.body.appendChild(script);
+window.firebase={initializeApp:function(){return{}},analytics:function(){return{setUserProperties:function(){},logEvent:function(){}}}};
+window.firebaseSetUserProperties=function(){};window.firebaseLogEvent=function(){};window.firebaseLogEventParameter=function(){};
+</script>
 </body>
 </html>

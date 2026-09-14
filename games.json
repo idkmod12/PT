@@ -40,5 +40,13 @@
     "src": "./games/snow-rider-3d/index.html",
     "image": "./assets/covers/snow-rider-3d.svg",
     "source": "Local WebGL game"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "category": "Arcade",
+    "src": "./games/slope/index.html",
+    "image": "./assets/covers/slope.jpg",
+    "source": "Local WebGL build"
   }
 ]
