@@ -6,7 +6,8 @@
     "src": "./game/index.html",
     "image": "./game/images/icons/cover1920x1080.png",
     "source": "https://www.kodub.com/",
-    "local": true
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/polytrack/index.html"
   },
   {
     "id": "coderslife",
@@ -14,7 +15,8 @@
     "category": "CUSTOM GAME",
     "src": "./games/coderslife/index.html",
     "image": "./assets/covers/isaiah-custom.svg",
-    "source": "Local game made by Isaiah"
+    "source": "Local game made by Isaiah",
+    "hostUrl": "https://mlvgs4.vercel.app/games/coderslife/index.html"
   },
   {
     "id": "rainbet",
@@ -22,7 +24,8 @@
     "category": "CUSTOM GAME",
     "src": "./games/rainbet/index.html",
     "image": "./assets/covers/isaiah-custom.svg",
-    "source": "Local game made by Isaiah"
+    "source": "Local game made by Isaiah",
+    "hostUrl": "https://mlvgs4.vercel.app/games/rainbet/index.html"
   },
   {
     "id": "escape-road-2",
@@ -31,7 +34,8 @@
     "src": "./games/escape-road-2/index.html",
     "image": "./assets/covers/escape-road-2.svg",
     "source": "Local WebGL build authorized by AZ Games",
-    "local": true
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/escape-road-2/index.html"
   },
   {
     "id": "snow-rider-3d",
@@ -39,7 +43,8 @@
     "category": "Driving",
     "src": "./games/snow-rider-3d/index.html",
     "image": "./assets/covers/snow-rider-3d.svg",
-    "source": "Local WebGL game"
+    "source": "Local WebGL game",
+    "hostUrl": "https://mlvgs1.vercel.app/games/snow-rider-3d/index.html"
   },
   {
     "id": "slope",
@@ -47,7 +52,8 @@
     "category": "Arcade",
     "src": "./games/slope/index.html",
     "image": "./assets/covers/slope.jpg",
-    "source": "Local WebGL build"
+    "source": "Local WebGL build",
+    "hostUrl": "https://mlvgs2.vercel.app/games/slope/index.html"
   },
   {
     "id": "tiny-fishing",
@@ -55,7 +61,8 @@
     "category": "Casual",
     "src": "./games/tiny-fishing/index.html",
     "image": "./assets/covers/tiny-fishing.png",
-    "source": "Local HTML5 build"
+    "source": "Local HTML5 build",
+    "hostUrl": "https://mlvgs2.vercel.app/games/tiny-fishing/index.html"
   },
   {
     "id": "moto-x3m",
@@ -63,7 +70,8 @@
     "category": "Racing",
     "src": "./games/moto-x3m/index.html",
     "image": "./assets/covers/moto-x3m.jpg",
-    "source": "Local HTML5 build"
+    "source": "Local HTML5 build",
+    "hostUrl": "https://mlvgs2.vercel.app/games/moto-x3m/index.html"
   },
   {
     "id": "moto-x3m-spooky-land",
@@ -71,7 +79,8 @@
     "category": "Racing",
     "src": "./games/moto-x3m-spooky-land/index.html",
     "image": "./assets/covers/moto-x3m-spooky-land.webp",
-    "source": "Local HTML5 build"
+    "source": "Local HTML5 build",
+    "hostUrl": "https://mlvgs3.vercel.app/games/moto-x3m-spooky-land/index.html"
   },
   {
     "id": "moto-x3m-winter",
@@ -79,7 +88,8 @@
     "category": "Racing",
     "src": "./games/moto-x3m-winter/index.html",
     "image": "./assets/covers/moto-x3m-winter.webp",
-    "source": "Local HTML5 build"
+    "source": "Local HTML5 build",
+    "hostUrl": "https://mlvgs3.vercel.app/games/moto-x3m-winter/index.html"
   },
   {
     "id": "moto-x3m-pool-party",
@@ -87,7 +97,8 @@
     "category": "Racing",
     "src": "./games/moto-x3m-pool-party/index.html",
     "image": "./assets/covers/moto-x3m-pool-party.webp",
-    "source": "Local HTML5 build"
+    "source": "Local HTML5 build",
+    "hostUrl": "https://mlvgs3.vercel.app/games/moto-x3m-pool-party/index.html"
   },
   {
     "id": "moto-x3m-2",
@@ -95,7 +106,8 @@
     "category": "Racing",
     "src": "./games/moto-x3m-2/index.html",
     "image": "./assets/covers/moto-x3m-2.webp",
-    "source": "Local HTML5 build"
+    "source": "Local HTML5 build",
+    "hostUrl": "https://mlvgs4.vercel.app/games/moto-x3m-2/index.html"
   },
   {
     "id": "moto-x3m-3",
@@ -103,6 +115,7 @@
     "category": "Racing",
     "src": "./games/moto-x3m-3/index.html",
     "image": "./assets/covers/moto-x3m-3.webp",
-    "source": "Local HTML5 build"
+    "source": "Local HTML5 build",
+    "hostUrl": "https://mlvgs4.vercel.app/games/moto-x3m-3/index.html"
   }
 ]

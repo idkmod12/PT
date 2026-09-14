@@ -78,3 +78,4 @@ window.addEventListener('storage',e=>{if(e.key===STORAGE_KEY){prefs=readPreferen
 renderThemes();applyTheme();view(location.hash.slice(1));
 try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length===0)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
 catch{$('result-summary').textContent='The library could not load. Please refresh to try again.';}
+
