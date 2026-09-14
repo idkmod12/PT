@@ -487,5 +487,215 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html"
+  },
+  {
+    "id": "ccg-fireboy-and-watergirl-in-the-forest-temple",
+    "title": "Fireboy and Watergirl in the Forest Temple",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl-in-the-forest-temple/index.html",
+    "image": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl-in-the-forest-temple/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl-in-the-forest-temple/index.html"
+  },
+  {
+    "id": "ccg-the-i-of-it",
+    "title": "The I of It",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/the-i-of-it/index.html",
+    "image": "https://mlvgs3.vercel.app/games/the-i-of-it/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/the-i-of-it/index.html"
+  },
+  {
+    "id": "ccg-boxel-rebound",
+    "title": "Boxel Rebound",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/boxel-rebound/index.html",
+    "image": "https://mlvgs4.vercel.app/games/boxel-rebound/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/boxel-rebound/index.html"
+  },
+  {
+    "id": "ccg-that-so-fun-game-of-killing-things",
+    "title": "That So Fun Game Of Killing Things",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/that-so-fun-game-of-killing-things/index.html",
+    "image": "https://mlvgs1.vercel.app/games/that-so-fun-game-of-killing-things/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/that-so-fun-game-of-killing-things/index.html"
+  },
+  {
+    "id": "ccg-chome-dinosuar-game",
+    "title": "Chome Dinosuar Game",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/chome-dinosuar-game/index.html",
+    "image": "https://mlvgs2.vercel.app/games/chome-dinosuar-game/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/chome-dinosuar-game/index.html"
+  },
+  {
+    "id": "ccg-boxing-random",
+    "title": "Boxing Random",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/boxing-random/index.html",
+    "image": "https://mlvgs3.vercel.app/games/boxing-random/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/boxing-random/index.html"
+  },
+  {
+    "id": "ccg-papa-s-pizzeria",
+    "title": "Papa's Pizzeria",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/papa-s-pizzeria/index.html",
+    "image": "https://mlvgs4.vercel.app/games/papa-s-pizzeria/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/papa-s-pizzeria/index.html"
+  },
+  {
+    "id": "ccg-learn-to-fly-idle",
+    "title": "Learn to Fly Idle",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/learn-to-fly-idle/index.html",
+    "image": "https://mlvgs1.vercel.app/games/learn-to-fly-idle/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/learn-to-fly-idle/index.html"
+  },
+  {
+    "id": "ccg-knife-hit",
+    "title": "Knife Hit",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/knife-hit/index.html",
+    "image": "https://mlvgs2.vercel.app/games/knife-hit/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/knife-hit/index.html"
+  },
+  {
+    "id": "ccg-idle-breakout",
+    "title": "Idle Breakout",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/idle-breakout/index.html",
+    "image": "https://mlvgs3.vercel.app/games/idle-breakout/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/idle-breakout/index.html"
+  },
+  {
+    "id": "ccg-drive-mad",
+    "title": "Drive Mad",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/drive-mad/index.html",
+    "image": "https://mlvgs4.vercel.app/games/drive-mad/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/drive-mad/index.html"
+  },
+  {
+    "id": "ccg-choppy-orc",
+    "title": "Choppy Orc",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/choppy-orc/index.html",
+    "image": "https://mlvgs1.vercel.app/games/choppy-orc/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/choppy-orc/index.html"
+  },
+  {
+    "id": "ccg-volley-random",
+    "title": "Volley Random",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/volley-random/index.html",
+    "image": "https://mlvgs3.vercel.app/games/volley-random/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/volley-random/index.html"
+  },
+  {
+    "id": "ccg-basket-random",
+    "title": "Basket Random",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/basket-random/index.html",
+    "image": "https://mlvgs4.vercel.app/games/basket-random/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/basket-random/index.html"
+  },
+  {
+    "id": "ccg-big-tower-tiny-square",
+    "title": "Big Tower Tiny Square",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/big-tower-tiny-square/index.html",
+    "image": "https://mlvgs1.vercel.app/games/big-tower-tiny-square/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/big-tower-tiny-square/index.html"
+  },
+  {
+    "id": "ccg-stickman-hook",
+    "title": "Stickman Hook",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/stickman-hook/index.html",
+    "image": "https://mlvgs2.vercel.app/games/stickman-hook/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/stickman-hook/index.html"
+  },
+  {
+    "id": "ccg-doodle-jump",
+    "title": "Doodle Jump",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/doodle-jump/index.html",
+    "image": "https://mlvgs3.vercel.app/games/doodle-jump/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/doodle-jump/index.html"
+  },
+  {
+    "id": "ccg-soccer-heads",
+    "title": "Soccer Heads",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/soccer-heads/index.html",
+    "image": "https://mlvgs4.vercel.app/games/soccer-heads/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/soccer-heads/index.html"
+  },
+  {
+    "id": "ccg-block-blast",
+    "title": "Block Blast",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/block-blast/index.html",
+    "image": "https://mlvgs1.vercel.app/games/block-blast/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/block-blast/index.html"
+  },
+  {
+    "id": "ccg-tower-of-destiny",
+    "title": "Tower of Destiny",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/tower-of-destiny/index.html",
+    "image": "https://mlvgs2.vercel.app/games/tower-of-destiny/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/tower-of-destiny/index.html"
+  },
+  {
+    "id": "ccg-happy-wheels",
+    "title": "Happy Wheels",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/happy-wheels/index.html",
+    "image": "https://mlvgs3.vercel.app/games/happy-wheels/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/happy-wheels/index.html"
   }
 ]
