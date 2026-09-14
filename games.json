@@ -707,5 +707,245 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs1.vercel.app/games/mainland-wars/index.html"
+  },
+  {
+    "id": "ccg-papa-s-tacomia",
+    "title": "Papa's Tacomia",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/papa-s-tacomia/index.html",
+    "image": "https://mlvgs1.vercel.app/games/papa-s-tacomia/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/papa-s-tacomia/index.html"
+  },
+  {
+    "id": "ccg-learn-to-fly-2",
+    "title": "Learn to Fly 2",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/learn-to-fly-2/index.html",
+    "image": "https://mlvgs2.vercel.app/games/learn-to-fly-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/learn-to-fly-2/index.html"
+  },
+  {
+    "id": "ccg-papa-s-freezeria",
+    "title": "Papa's Freezeria",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/papa-s-freezeria/index.html",
+    "image": "https://mlvgs3.vercel.app/games/papa-s-freezeria/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/papa-s-freezeria/index.html"
+  },
+  {
+    "id": "ccg-riddle-school-4",
+    "title": "Riddle School 4",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/riddle-school-4/index.html",
+    "image": "https://mlvgs4.vercel.app/games/riddle-school-4/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/riddle-school-4/index.html"
+  },
+  {
+    "id": "ccg-bejeweled",
+    "title": "Bejeweled",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/bejeweled/index.html",
+    "image": "https://mlvgs1.vercel.app/games/bejeweled/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/bejeweled/index.html"
+  },
+  {
+    "id": "ccg-cannon-basketball-4",
+    "title": "Cannon Basketball 4",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/cannon-basketball-4/index.html",
+    "image": "https://mlvgs2.vercel.app/games/cannon-basketball-4/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/cannon-basketball-4/index.html"
+  },
+  {
+    "id": "ccg-jacksmith",
+    "title": "Jacksmith",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/jacksmith/index.html",
+    "image": "https://mlvgs3.vercel.app/games/jacksmith/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/jacksmith/index.html"
+  },
+  {
+    "id": "ccg-level-devil",
+    "title": "Level Devil",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/level-devil/index.html",
+    "image": "https://mlvgs4.vercel.app/games/level-devil/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/level-devil/index.html"
+  },
+  {
+    "id": "ccg-idle-dice",
+    "title": "Idle Dice",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/idle-dice/index.html",
+    "image": "https://mlvgs1.vercel.app/games/idle-dice/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/idle-dice/index.html"
+  },
+  {
+    "id": "ccg-there-is-no-game",
+    "title": "There is no Game",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/there-is-no-game/index.html",
+    "image": "https://mlvgs2.vercel.app/games/there-is-no-game/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/there-is-no-game/index.html"
+  },
+  {
+    "id": "ccg-papa-s-wingeria",
+    "title": "Papa's Wingeria",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/papa-s-wingeria/index.html",
+    "image": "https://mlvgs3.vercel.app/games/papa-s-wingeria/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/papa-s-wingeria/index.html"
+  },
+  {
+    "id": "ccg-riddle-school-3",
+    "title": "Riddle School 3",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/riddle-school-3/index.html",
+    "image": "https://mlvgs4.vercel.app/games/riddle-school-3/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/riddle-school-3/index.html"
+  },
+  {
+    "id": "ccg-cookie-clicker",
+    "title": "Cookie Clicker",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/cookie-clicker/index.html",
+    "image": "https://mlvgs1.vercel.app/games/cookie-clicker/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/cookie-clicker/index.html"
+  },
+  {
+    "id": "ccg-final-earth-2",
+    "title": "Final Earth 2",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/final-earth-2/index.html",
+    "image": "https://mlvgs2.vercel.app/games/final-earth-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/final-earth-2/index.html"
+  },
+  {
+    "id": "ccg-the-impossible-quiz",
+    "title": "The Impossible Quiz",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/the-impossible-quiz/index.html",
+    "image": "https://mlvgs3.vercel.app/games/the-impossible-quiz/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/the-impossible-quiz/index.html"
+  },
+  {
+    "id": "ccg-zombotron",
+    "title": "Zombotron",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/zombotron/index.html",
+    "image": "https://mlvgs4.vercel.app/games/zombotron/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/zombotron/index.html"
+  },
+  {
+    "id": "ccg-rooftop-snipers",
+    "title": "Rooftop Snipers",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/rooftop-snipers/index.html",
+    "image": "https://mlvgs1.vercel.app/games/rooftop-snipers/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/rooftop-snipers/index.html"
+  },
+  {
+    "id": "ccg-duck-life-4",
+    "title": "Duck Life 4",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/duck-life-4/index.html",
+    "image": "https://mlvgs2.vercel.app/games/duck-life-4/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/duck-life-4/index.html"
+  },
+  {
+    "id": "ccg-run-3",
+    "title": "Run 3",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/run-3/index.html",
+    "image": "https://mlvgs3.vercel.app/games/run-3/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/run-3/index.html"
+  },
+  {
+    "id": "ccg-unblocked-on-ccported",
+    "title": "| Unblocked on CCPorted",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/unblocked-on-ccported/index.html",
+    "image": "https://mlvgs4.vercel.app/games/unblocked-on-ccported/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/unblocked-on-ccported/index.html"
+  },
+  {
+    "id": "ccg-bloons-tower-defense-4",
+    "title": "Bloons Tower Defense 4",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/bloons-tower-defense-4/index.html",
+    "image": "https://mlvgs1.vercel.app/games/bloons-tower-defense-4/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/bloons-tower-defense-4/index.html"
+  },
+  {
+    "id": "ccg-papa-s-pastaria",
+    "title": "Papa's Pastaria",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/papa-s-pastaria/index.html",
+    "image": "https://mlvgs2.vercel.app/games/papa-s-pastaria/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/papa-s-pastaria/index.html"
+  },
+  {
+    "id": "ccg-parking-fury-2",
+    "title": "Parking Fury 2",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/parking-fury-2/index.html",
+    "image": "https://mlvgs3.vercel.app/games/parking-fury-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/parking-fury-2/index.html"
+  },
+  {
+    "id": "ccg-pac-man",
+    "title": "Pac Man",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/pac-man/index.html",
+    "image": "https://mlvgs4.vercel.app/games/pac-man/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/pac-man/index.html"
   }
 ]
