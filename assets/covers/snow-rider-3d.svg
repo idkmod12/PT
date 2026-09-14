@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
-  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#07172e"/><stop offset="1" stop-color="#153e66"/></linearGradient></defs>
-  <rect width="800" height="450" fill="url(#sky)"/>
-  <circle cx="630" cy="88" r="42" fill="#eaf7ff" opacity=".9"/>
-  <path d="M0 275 160 190l125 83 135-116 145 125 110-82 125 80v170H0Z" fill="#dff4ff"/>
-  <path d="M0 348 180 251l104 65 140-109 141 104 114-72 121 64v147H0Z" fill="#9bd4ee"/>
-  <path d="m346 331 62-121 55 121z" fill="#ff553f"/><path d="m381 260 19-38 17 38z" fill="#fff"/>
-  <text x="42" y="70" fill="#fff" font-family="Arial, sans-serif" font-size="38" font-weight="700">SNOW RIDER 3D</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300"><defs><linearGradient id="g" y2="1"><stop stop-color="#9ed7f2"/><stop offset="1" stop-color="#f4fbff"/></linearGradient></defs><rect width="480" height="300" rx="18" fill="url(#g)"/><path d="M0 250 135 130l80 55 90-80 175 125v70H0z" fill="#b7dce8"/><text x="240" y="105" text-anchor="middle" fill="#10263c" font-family="Arial,sans-serif" font-size="34" font-weight="800">SNOW RIDER</text><text x="240" y="150" text-anchor="middle" fill="#d83c4b" font-family="Arial,sans-serif" font-size="34" font-weight="800">3D</text></svg>

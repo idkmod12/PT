@@ -32,5 +32,13 @@
     "image": "./assets/covers/escape-road-2.svg",
     "source": "Local WebGL build authorized by AZ Games",
     "local": true
+  },
+  {
+    "id": "snow-rider-3d",
+    "title": "Snow Rider 3D",
+    "category": "Driving",
+    "src": "./games/snow-rider-3d/index.html",
+    "image": "./assets/covers/snow-rider-3d.svg",
+    "source": "Local WebGL game"
   }
 ]
