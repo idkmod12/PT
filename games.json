@@ -1187,5 +1187,55 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs4.vercel.app/games/eaglercraftx-1-8/index.html"
+  },
+  {
+    "id": "geo-paper-io-2",
+    "title": "Paper.io 2",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/paper-io-2/index.html",
+    "image": "https://mlvgs1.vercel.app/games/paper-io-2/thumb.jpg",
+    "source": "Geography standalone build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/paper-io-2/index.html"
+  },
+  {
+    "id": "geo-paper-io-3d",
+    "title": "Paper.io 3D",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/paper-io-3d/index.html",
+    "image": "https://mlvgs2.vercel.app/games/paper-io-3d/thumb.jpg",
+    "source": "Geography standalone build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/paper-io-3d/index.html"
+  },
+  {
+    "id": "geo-free-kick-3d",
+    "title": "3D Free Kick",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/free-kick-3d/index.html",
+    "image": "https://mlvgs3.vercel.app/games/free-kick-3d/thumb.jpg",
+    "source": "Geography standalone build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/free-kick-3d/index.html"
+  },
+  {
+    "id": "geo-achievement-unlocked",
+    "title": "Achievement Unlocked",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/achievement-unlocked/index.html",
+    "image": "https://mlvgs4.vercel.app/games/achievement-unlocked/thumb.jpg",
+    "source": "Geography standalone build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/achievement-unlocked/index.html"
+  },
+  {
+    "id": "geo-adventure-drivers",
+    "title": "Adventure Drivers",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/adventure-drivers/index.html",
+    "image": "https://mlvgs1.vercel.app/games/adventure-drivers/thumb.jpg",
+    "source": "Geography standalone build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/adventure-drivers/index.html"
   }
 ]
