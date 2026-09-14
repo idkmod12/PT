@@ -697,5 +697,15 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs3.vercel.app/games/happy-wheels/index.html"
+  },
+  {
+    "id": "ccg-mainland-wars",
+    "title": "Mainland Wars",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/mainland-wars/index.html",
+    "image": "https://mlvgs1.vercel.app/games/mainland-wars/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/mainland-wars/index.html"
   }
 ]
