@@ -23,21 +23,5 @@
     "src": "./games/rainbet/index.html",
     "image": "./assets/covers/isaiah-custom.svg",
     "source": "Local game made by Isaiah"
-  },
-  {
-    "id": "snow-rider-3d",
-    "title": "Snow Rider 3D",
-    "category": "Driving",
-    "src": "./games/snow-rider-3d/index.html",
-    "image": "./assets/covers/snow-rider-3d.svg",
-    "source": "https://snowrider3dz.github.io/"
-  },
-  {
-    "id": "slope",
-    "title": "Slope",
-    "category": "Arcade",
-    "src": "https://slopenexus.github.io/games/v1.2.5/index.html",
-    "image": "./assets/covers/slope.svg",
-    "source": "https://slopenexus.github.io/games/v1.2.5/index.html"
   }
 ]
