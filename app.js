@@ -68,6 +68,7 @@ async function closeGame(){if(document.fullscreenElement)await document.exitFull
 $('player-dialog').addEventListener('close',()=>{$('frame-container').querySelector('iframe')?.remove();currentGame=null;opener?.focus({preventScroll:true});});
 $('close-player').addEventListener('click',closeGame);$('reload-player').addEventListener('click',()=>{if(currentGame)mountGame();});
 $('fullscreen-player').addEventListener('click',async()=>{try{if(document.fullscreenElement)await document.exitFullscreen();else await $('player-shell').requestFullscreen();}catch{$('player-note').hidden=false;$('player-note').textContent='Fullscreen is unavailable in this browser. You can keep playing here.';}});
+document.addEventListener('fullscreenchange',()=>{if(document.fullscreenElement)return;const frame=$('frame-container').querySelector('iframe');if(frame){frame.style.display='none';void frame.offsetHeight;requestAnimationFrame(()=>{frame.style.display='block';frame.contentWindow?.postMessage({type:'resize'},'*');});}});
  $('library-tab').addEventListener('click',()=>{location.hash='library';view('library');});$('settings-tab').addEventListener('click',()=>{location.hash='settings';view('settings');});window.addEventListener('hashchange',()=>view(location.hash.slice(1)));
 $('search').addEventListener('input',e=>{query=e.target.value;prefs.page=1;render();});
 $('all-filter').addEventListener('click',()=>{favoritesOnly=false;prefs.page=1;save();render();});$('favorite-filter').addEventListener('click',()=>{favoritesOnly=true;prefs.page=1;render();});
