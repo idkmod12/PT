@@ -307,5 +307,185 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs4.vercel.app/games/riddle-school/index.html"
+  },
+  {
+    "id": "ccg-undertale",
+    "title": "UNDERTALE",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/undertale/index.html",
+    "image": "https://mlvgs1.vercel.app/games/undertale/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/undertale/index.html"
+  },
+  {
+    "id": "ccg-tetris",
+    "title": "Tetris",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/tetris/index.html",
+    "image": "https://mlvgs2.vercel.app/games/tetris/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/tetris/index.html"
+  },
+  {
+    "id": "ccg-the-world-s-hardest-game",
+    "title": "The World's Hardest Game",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game/index.html",
+    "image": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game/index.html"
+  },
+  {
+    "id": "ccg-do-not-crash",
+    "title": "Do Not Crash",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/do-not-crash/index.html",
+    "image": "https://mlvgs4.vercel.app/games/do-not-crash/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/do-not-crash/index.html"
+  },
+  {
+    "id": "ccg-learn-to-fly",
+    "title": "Learn to Fly",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/learn-to-fly/index.html",
+    "image": "https://mlvgs1.vercel.app/games/learn-to-fly/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/learn-to-fly/index.html"
+  },
+  {
+    "id": "ccg-run-2",
+    "title": "Run 2",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/run-2/index.html",
+    "image": "https://mlvgs2.vercel.app/games/run-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/run-2/index.html"
+  },
+  {
+    "id": "ccg-duck-life",
+    "title": "Duck Life",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/duck-life/index.html",
+    "image": "https://mlvgs3.vercel.app/games/duck-life/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/duck-life/index.html"
+  },
+  {
+    "id": "ccg-suika-game",
+    "title": "Suika Game",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/suika-game/index.html",
+    "image": "https://mlvgs4.vercel.app/games/suika-game/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/suika-game/index.html"
+  },
+  {
+    "id": "ccg-bloons-tower-defense-3",
+    "title": "Bloons Tower Defense 3",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/bloons-tower-defense-3/index.html",
+    "image": "https://mlvgs1.vercel.app/games/bloons-tower-defense-3/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/bloons-tower-defense-3/index.html"
+  },
+  {
+    "id": "ccg-riddle-school-2",
+    "title": "Riddle School 2",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/riddle-school-2/index.html",
+    "image": "https://mlvgs2.vercel.app/games/riddle-school-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/riddle-school-2/index.html"
+  },
+  {
+    "id": "ccg-orbitron-3",
+    "title": "Orbitron 3",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/orbitron-3/index.html",
+    "image": "https://mlvgs3.vercel.app/games/orbitron-3/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/orbitron-3/index.html"
+  },
+  {
+    "id": "ccg-flappy-bird",
+    "title": "Flappy Bird",
+    "category": "Arcade",
+    "src": "https://mlvgs4.vercel.app/games/flappy-bird/index.html",
+    "image": "https://mlvgs4.vercel.app/games/flappy-bird/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs4.vercel.app/games/flappy-bird/index.html"
+  },
+  {
+    "id": "ccg-intercepter",
+    "title": "Intercepter",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/intercepter/index.html",
+    "image": "https://mlvgs1.vercel.app/games/intercepter/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/intercepter/index.html"
+  },
+  {
+    "id": "ccg-fireboy-and-watergirl",
+    "title": "Fireboy and Watergirl",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl/index.html",
+    "image": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl/index.html"
+  },
+  {
+    "id": "ccg-bloons-tower-defense-2",
+    "title": "Bloons Tower Defense 2",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/bloons-tower-defense-2/index.html",
+    "image": "https://mlvgs3.vercel.app/games/bloons-tower-defense-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/bloons-tower-defense-2/index.html"
+  },
+  {
+    "id": "ccg-bloxorz",
+    "title": "Bloxorz",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/bloxorz/index.html",
+    "image": "https://mlvgs1.vercel.app/games/bloxorz/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/bloxorz/index.html"
+  },
+  {
+    "id": "ccg-soccer-random",
+    "title": "Soccer Random",
+    "category": "Arcade",
+    "src": "https://mlvgs2.vercel.app/games/soccer-random/index.html",
+    "image": "https://mlvgs2.vercel.app/games/soccer-random/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/soccer-random/index.html"
+  },
+  {
+    "id": "ccg-the-world-s-hardest-game-2",
+    "title": "The World's Hardest Game 2",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html",
+    "image": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/thumb.jpg",
+    "source": "CCGStatic self-contained build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html"
   }
 ]
