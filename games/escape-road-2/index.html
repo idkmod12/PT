@@ -17,13 +17,13 @@
   </style>
 </head>
 <body>
-  <div id="loading"><div id="loading-card"><img src="./25102308/logo.png" alt="Escape Road 2"><div id="progress"><div id="bar"></div></div><div id="status">Loading game…</div></div></div>
+  <div id="loading"><div id="loading-card"><img src="./25050801/logo.png" alt="Escape Road 2"><div id="progress"><div id="bar"></div></div><div id="status">Loading game…</div></div></div>
   <div id="game"><canvas id="unity-canvas" tabindex="-1"></canvas></div>
   <script>
     const build='./Build';
-    const config={dataUrl:build+'/escape-road-2-v25102308.data.unityweb',frameworkUrl:build+'/escape-road-2-v25102308.framework.js.unityweb',codeUrl:build+'/escape-road-2-v25102308.wasm.unityweb',streamingAssetsUrl:'./25102308/StreamingAssets',companyName:'AZ Games',productName:'Escape Road 2',productVersion:'25102308'};
+    const config={dataUrl:build+'/escape-road-2-v25050801.data.unityweb',frameworkUrl:build+'/escape-road-2-v25050801.framework.js.unityweb',codeUrl:build+'/escape-road-2-v25050801.wasm.unityweb',streamingAssetsUrl:'./25050801/StreamingAssets',companyName:'CCGStatic / AZ Games',productName:'Escape Road 2',productVersion:'25050801'};
     const bar=document.querySelector('#bar'),status=document.querySelector('#status'),loading=document.querySelector('#loading'),canvas=document.querySelector('#unity-canvas');
-    const script=document.createElement('script');script.src=build+'/escape-road-2-v25102308.loader.js';
+    const script=document.createElement('script');script.src=build+'/escape-road-2-v25050801.loader.js';
     script.onload=()=>{createUnityInstance(canvas,config,p=>{bar.style.width=(p*100)+'%';status.textContent='Loading game… '+Math.round(p*100)+'%'}).then(()=>{loading.remove();canvas.focus()}).catch(err=>{status.textContent='Unable to load the game.';console.error(err)})};
     document.body.appendChild(script);
   </script>
