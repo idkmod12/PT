@@ -1187,5 +1187,35 @@
     "source": "Geography standalone build",
     "local": true,
     "hostUrl": "https://mlvgs1.vercel.app/games/adventure-drivers/index.html"
+  },
+  {
+    "id": "ccg-deltarune",
+    "title": "Deltarune",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/deltarune/index.html",
+    "image": "https://mlvgs3.vercel.app/games/deltarune/thumb.jpg",
+    "source": "CCGStatic hosted build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/deltarune/index.html"
+  },
+  {
+    "id": "ccg-raft",
+    "title": "Raft",
+    "category": "Arcade",
+    "src": "https://mlvgs1.vercel.app/games/raft/index.html",
+    "image": "https://mlvgs1.vercel.app/games/raft/thumb.jpg",
+    "source": "CCGStatic hosted build",
+    "local": true,
+    "hostUrl": "https://mlvgs1.vercel.app/games/raft/index.html"
+  },
+  {
+    "id": "ccg-the-world-s-hardest-game-2",
+    "title": "The World's Hardest Game 2",
+    "category": "Arcade",
+    "src": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html",
+    "image": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/thumb.jpg",
+    "source": "CCGStatic hosted build",
+    "local": true,
+    "hostUrl": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html"
   }
 ]
