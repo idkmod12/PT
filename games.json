@@ -139,16 +139,6 @@
     "hostUrl": "https://mlvgs2.vercel.app/games/getting-over-it/index.html"
   },
   {
-    "id": "ccg-deltarune",
-    "title": "Deltarune",
-    "category": "Arcade",
-    "src": "https://mlvgs3.vercel.app/games/deltarune/index.html",
-    "image": "https://mlvgs3.vercel.app/games/deltarune/thumb.jpg",
-    "source": "CCGStatic self-contained build",
-    "local": true,
-    "hostUrl": "https://mlvgs3.vercel.app/games/deltarune/index.html"
-  },
-  {
     "id": "ccg-toss-the-turtle",
     "title": "Toss The Turtle",
     "category": "Arcade",
@@ -157,16 +147,6 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs4.vercel.app/games/toss-the-turtle/index.html"
-  },
-  {
-    "id": "ccg-raft",
-    "title": "Raft",
-    "category": "Arcade",
-    "src": "https://mlvgs1.vercel.app/games/raft/index.html",
-    "image": "https://mlvgs1.vercel.app/games/raft/thumb.jpg",
-    "source": "CCGStatic self-contained build",
-    "local": true,
-    "hostUrl": "https://mlvgs1.vercel.app/games/raft/index.html"
   },
   {
     "id": "ccg-ballz",
@@ -477,16 +457,6 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs2.vercel.app/games/soccer-random/index.html"
-  },
-  {
-    "id": "ccg-the-world-s-hardest-game-2",
-    "title": "The World's Hardest Game 2",
-    "category": "Arcade",
-    "src": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html",
-    "image": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/thumb.jpg",
-    "source": "CCGStatic self-contained build",
-    "local": true,
-    "hostUrl": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html"
   },
   {
     "id": "ccg-fireboy-and-watergirl-in-the-forest-temple",
@@ -899,16 +869,6 @@
     "hostUrl": "https://mlvgs3.vercel.app/games/run-3/index.html"
   },
   {
-    "id": "ccg-unblocked-on-ccported",
-    "title": "| Unblocked on CCPorted",
-    "category": "Arcade",
-    "src": "https://mlvgs4.vercel.app/games/unblocked-on-ccported/index.html",
-    "image": "https://mlvgs4.vercel.app/games/unblocked-on-ccported/thumb.jpg",
-    "source": "CCGStatic self-contained build",
-    "local": true,
-    "hostUrl": "https://mlvgs4.vercel.app/games/unblocked-on-ccported/index.html"
-  },
-  {
     "id": "ccg-bloons-tower-defense-4",
     "title": "Bloons Tower Defense 4",
     "category": "Arcade",
@@ -1047,16 +1007,6 @@
     "source": "CCGStatic self-contained build",
     "local": true,
     "hostUrl": "https://mlvgs2.vercel.app/games/iron-snout/index.html"
-  },
-  {
-    "id": "ccg-minecraft",
-    "title": "Minecraft",
-    "category": "Arcade",
-    "src": "https://mlvgs3.vercel.app/games/minecraft/index.html",
-    "image": "https://mlvgs3.vercel.app/games/minecraft/thumb.jpg",
-    "source": "CCGStatic self-contained build",
-    "local": true,
-    "hostUrl": "https://mlvgs3.vercel.app/games/minecraft/index.html"
   },
   {
     "id": "ccg-learn-to-fly-3",
