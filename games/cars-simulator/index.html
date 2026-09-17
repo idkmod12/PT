@@ -15,7 +15,17 @@
   <script>
     const base='https://storage.y8.com/y8-studio/unity/akeemywka/cars_simulator_v2/';
     const loading=document.getElementById('loading');
-    const gameInstance=UnityLoader.instantiate('gameContainer',base+'Build/cars-simulator-v2.json',{onProgress:function(instance,state){if(state==='complete')loading.classList.add('hidden')}});
+    const container=document.getElementById('gameContainer');
+    let revealed=false;
+    function reveal(){if(revealed)return;revealed=true;loading.classList.add('hidden')}
+    // UnityLoader creates the canvas before its progress callback reaches the
+    // final state. Reveal the game as soon as that playable surface exists.
+    const canvasWatcher=new MutationObserver(function(){
+      if(container.querySelector('canvas')){reveal();canvasWatcher.disconnect()}
+    });
+    canvasWatcher.observe(container,{childList:true,subtree:true});
+    const gameInstance=UnityLoader.instantiate('gameContainer',base+'Build/cars-simulator-v2.json',{onProgress:function(instance,state){if(state==='complete')reveal()}});
+    requestAnimationFrame(function(){if(container.querySelector('canvas'))reveal()});
   </script>
 </body>
 </html>
