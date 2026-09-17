@@ -26,6 +26,10 @@
     canvasWatcher.observe(container,{childList:true,subtree:true});
     const gameInstance=UnityLoader.instantiate('gameContainer',base+'Build/cars-simulator-v2.json',{onProgress:function(instance,state){if(state==='complete')reveal()}});
     requestAnimationFrame(function(){if(container.querySelector('canvas'))reveal()});
+    const revealTimer=setInterval(function(){
+      if(container.querySelector('canvas')){reveal();clearInterval(revealTimer);canvasWatcher.disconnect()}
+    },250);
+    setTimeout(function(){clearInterval(revealTimer);canvasWatcher.disconnect()},30000);
   </script>
 </body>
 </html>
