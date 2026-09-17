@@ -13,10 +13,10 @@
     "id": "cars-simulator",
     "title": "Cars Simulator",
     "category": "Driving",
-    "src": "./games/cars-simulator/index.html",
+    "src": "https://mlvgs1.vercel.app/games/cars-simulator/index.html",
     "image": "./assets/covers/cars-simulator.webp",
     "source": "Y8-hosted WebGL build",
-    "hostUrl": "https://mathguide-seven.vercel.app/games/cars-simulator/index.html"
+    "hostUrl": "https://mlvgs1.vercel.app/games/cars-simulator/index.html"
   },
   {
     "id": "coderslife",
