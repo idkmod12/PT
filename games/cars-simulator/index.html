@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>Cars Simulator</title>
+  <style>
+    :root{color-scheme:dark}*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#050505;color:#f2f2f4;font-family:system-ui,-apple-system,Segoe UI,sans-serif}.toolbar{height:48px;display:flex;align-items:center;gap:14px;padding:0 16px;border-bottom:1px solid #222;background:#0b0b0d}.toolbar a{color:#ff6b6b;text-decoration:none}.toolbar h1{font-size:14px;font-weight:600;margin:0}.game-shell{height:calc(100% - 48px);display:grid;place-items:center;padding:12px}.game-frame{width:min(960px,100%);height:min(600px,100%);position:relative;background:#222c36;box-shadow:0 0 0 1px #25252a}.game-container{width:100%;height:100%}.loading{position:absolute;inset:0;display:grid;place-items:center;color:#bbb;background:#222c36;pointer-events:none}.loading.hidden{display:none}
+  </style>
+</head>
+<body>
+  <header class="toolbar"><a href="../../">← Library</a><h1>Cars Simulator</h1></header>
+  <main class="game-shell"><div class="game-frame"><div id="gameContainer" class="game-container"></div><div id="loading" class="loading">Loading Cars Simulator…</div></div></main>
+  <script src="https://storage.y8.com/y8-studio/unity/akeemywka/cars_simulator_v2/Build/UnityLoader.js"></script>
+  <script>
+    const base='https://storage.y8.com/y8-studio/unity/akeemywka/cars_simulator_v2/';
+    const loading=document.getElementById('loading');
+    const gameInstance=UnityLoader.instantiate('gameContainer',base+'Build/cars-simulator-v2.json',{onProgress:function(instance,state){if(state==='complete')loading.classList.add('hidden')}});
+  </script>
+</body>
+</html>
