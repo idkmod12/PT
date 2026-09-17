@@ -10,6 +10,15 @@
     "hostUrl": "https://mlvgs1.vercel.app/games/polytrack/index.html"
   },
   {
+    "id": "cars-simulator",
+    "title": "Cars Simulator",
+    "category": "Driving",
+    "src": "https://www.y8.com/games/cars_simulator",
+    "image": "./assets/covers/cars-simulator.webp",
+    "source": "Y8 Games",
+    "hostUrl": "https://www.y8.com/games/cars_simulator"
+  },
+  {
     "id": "coderslife",
     "title": "CodersLife",
     "category": "CUSTOM GAME",
