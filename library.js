@@ -36,7 +36,13 @@ export function selectGames(games,query='',favorites=null) {
  return games.filter(g=>(!favorites||favorites.includes(g.id))&&normalize(g.title+' '+g.category).includes(q));
 }
 export function paginate(games,page) {
- const pages=Math.max(1,Math.ceil(games.length/PAGE_SIZE));
+ const fullPages=Math.floor(games.length/PAGE_SIZE), remainder=games.length%PAGE_SIZE;
+ // Keep a tiny trailing page with the preceding page so the library does not
+ // strand one or two cards on a page by themselves.
+ const mergeTail=fullPages>0&&remainder>0&&remainder<10;
+ const pages=Math.max(1,mergeTail?fullPages:Math.ceil(games.length/PAGE_SIZE));
  const current=Math.max(1,Math.min(pages,page));
- return {items:games.slice((current-1)*PAGE_SIZE,current*PAGE_SIZE),page:current,pages,total:games.length};
+ const start=(current-1)*PAGE_SIZE;
+ const end=mergeTail&&current===pages?games.length:Math.min(current*PAGE_SIZE,games.length);
+ return {items:games.slice(start,end),page:current,pages,total:games.length,start:games.length?start+1:0,end};
 }
