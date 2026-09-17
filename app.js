@@ -2,7 +2,7 @@ import {themes,readPreferences,selectGames,paginate,PAGE_SIZE,STORAGE_KEY} from 
 const $=id=>document.getElementById(id);
 let storage;
 try{storage=window.localStorage;}catch{}
-let prefs=readPreferences(storage),games=[],query='',favoritesOnly=false,currentGame=null,opener=null;
+let prefs=readPreferences(storage),games=[],query='',favoritesOnly=false,currentGame=null,opener=null,resetSelected=new Set();
 function save(){try{storage.setItem(STORAGE_KEY,JSON.stringify(prefs));}catch{$('storage-warning').hidden=false;}}
 function node(tag,className,text){const el=document.createElement(tag);if(className)el.className=className;if(text!==undefined)el.textContent=text;return el;}
 function applyTheme(){
@@ -53,7 +53,35 @@ function render(){
  for(const page of pageNumbers){if(page-previous>1)pagination.append(node('span','page-gap','…'));pageButton(page,page,false,page===result.page);previous=page;}
  pageButton('→',result.page+1,result.page===result.pages);
 }
-function view(name){const active=['library','settings'].includes(name)?name:'library';$('library-view').hidden=active!=='library';$('settings-view').hidden=active!=='settings';
+function updateResetActions(){
+ const deleteButton=$('delete-reset'),selectAll=$('select-all-reset');
+ if(deleteButton)deleteButton.disabled=resetSelected.size===0;
+ if(selectAll)selectAll.textContent=resetSelected.size===games.length&&games.length?'Clear selection':'Select all';
+}
+function renderResetGames(){
+ const list=$('reset-games');if(!list)return;list.replaceChildren();
+ for(const game of games){
+  const label=node('label','reset-game'),box=document.createElement('input');
+  box.type='checkbox';box.value=game.id;box.checked=resetSelected.has(game.id);
+  box.addEventListener('change',()=>{if(box.checked)resetSelected.add(game.id);else resetSelected.delete(game.id);updateResetActions();});
+  label.append(box,node('span','',game.title));list.append(label);
+ }
+ updateResetActions();
+}
+function setResetMode(enabled){
+ const selector=$('reset-selector');if(!selector)return;selector.hidden=!enabled;
+ $('start-reset').hidden=enabled;
+ if(enabled){resetSelected=new Set();$('reset-status').hidden=true;renderResetGames();document.querySelector('.reset-game input')?.focus();}
+}
+function resetGameData(){
+ if(!resetSelected.size)return;
+ const selected=games.filter(g=>resetSelected.has(g.id)),hosts=new Map();
+ for(const game of selected){try{const url=new URL(game.hostUrl||game.src,location.href),ids=hosts.get(url.origin)||[];ids.push(game.id);hosts.set(url.origin,ids);}catch{}}
+ let opened=0;
+ for(const [origin,ids] of hosts){const w=window.open(`${origin}/reset.html?games=${encodeURIComponent(ids.join(','))}`,'_blank','noopener');if(w)opened++;}
+ const status=$('reset-status');status.hidden=false;status.textContent=opened?`Reset opened for ${selected.length} selected game${selected.length===1?'':'s'}. Close the reset tabs when finished.`:'Your browser blocked the reset tab. Allow pop-ups and try again.';
+ setResetMode(false);
+}function view(name){const active=['library','settings'].includes(name)?name:'library';$('library-view').hidden=active!=='library';$('settings-view').hidden=active!=='settings';
  for(const key of ['library','settings']){const selected=key===active;$(key+'-tab').classList.toggle('active',selected);if(selected)$(key+'-tab').setAttribute('aria-current','page');else $(key+'-tab').removeAttribute('aria-current');}
 }
 function mountGame(){
@@ -73,10 +101,13 @@ document.addEventListener('fullscreenchange',()=>{if(document.fullscreenElement)
 $('search').addEventListener('input',e=>{query=e.target.value;prefs.page=1;render();});
 $('all-filter').addEventListener('click',()=>{favoritesOnly=false;prefs.page=1;save();render();});$('favorite-filter').addEventListener('click',()=>{favoritesOnly=true;prefs.page=1;render();});
 $('reset-filter').addEventListener('click',()=>{query='';$('search').value='';favoritesOnly=false;prefs.page=1;render();});
+ $('start-reset')?.addEventListener('click',()=>setResetMode(true));$('cancel-reset')?.addEventListener('click',()=>setResetMode(false));$('select-all-reset')?.addEventListener('click',()=>{if(resetSelected.size===games.length)resetSelected.clear();else resetSelected=new Set(games.map(g=>g.id));renderResetGames();});$('delete-reset')?.addEventListener('click',resetGameData);
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!$('player-dialog').open&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();view('library');$('search').focus();}});
 window.addEventListener('storage',e=>{if(e.key===STORAGE_KEY){prefs=readPreferences(storage);applyTheme();render();}});
 renderThemes();applyTheme();view(location.hash.slice(1));
 try{const response=await fetch('./games.json');if(!response.ok)throw Error('Catalog unavailable');games=await response.json();if(!Array.isArray(games)||games.length===0)throw Error('Incomplete catalog');prefs.favorites=prefs.favorites.filter(id=>games.some(g=>g.id===id));render();}
 catch{$('result-summary').textContent='The library could not load. Please refresh to try again.';}
+
+
 
 
