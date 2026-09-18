@@ -1206,5 +1206,15 @@
     "source": "CCGStatic hosted build",
     "local": true,
     "hostUrl": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/index.html"
+  },
+  {
+    "id": "slime-rush-td",
+    "title": "Slime Rush TD",
+    "category": "Tower Defense",
+    "src": "https://mlvgs2.vercel.app/games/slime-rush-td/index.html",
+    "image": "https://mlvgs2.vercel.app/games/slime-rush-td/images/uititle-sheet0.png",
+    "source": "Geography standalone Construct 2 build",
+    "local": true,
+    "hostUrl": "https://mlvgs2.vercel.app/games/slime-rush-td/index.html"
   }
 ]
