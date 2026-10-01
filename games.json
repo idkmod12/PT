@@ -59,10 +59,10 @@
     "id": "slope",
     "title": "Slope",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/slope/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slope/index.html",
     "image": "./assets/covers/slope.jpg",
     "source": "Local WebGL build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/slope/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slope/index.html"
   },
   {
     "id": "tiny-fishing",
@@ -77,10 +77,10 @@
     "id": "moto-x3m",
     "title": "Moto X3M",
     "category": "Racing",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/moto-x3m/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/moto-x3m/index.html",
     "image": "./assets/covers/moto-x3m.jpg",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/moto-x3m/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/moto-x3m/index.html"
   },
   {
     "id": "moto-x3m-spooky-land",
@@ -141,11 +141,11 @@
     "id": "ccg-getting-over-it",
     "title": "Getting Over It",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/getting-over-it/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/getting-over-it/index.html",
     "image": "https://mlvgs2.vercel.app/games/getting-over-it/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/getting-over-it/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/getting-over-it/index.html"
   },
   {
     "id": "ccg-toss-the-turtle",
@@ -161,11 +161,11 @@
     "id": "ccg-ballz",
     "title": "BallZ",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/ballz/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ballz/index.html",
     "image": "https://mlvgs2.vercel.app/games/ballz/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/ballz/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ballz/index.html"
   },
   {
     "id": "ccg-spacebar-clicker",
@@ -201,11 +201,11 @@
     "id": "ccg-stack",
     "title": "Stack",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/stack/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stack/index.html",
     "image": "https://mlvgs2.vercel.app/games/stack/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/stack/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stack/index.html"
   },
   {
     "id": "ccg-the-binding-of-isaac",
@@ -231,11 +231,11 @@
     "id": "ccg-ovo",
     "title": "OVO",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/ovo/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ovo/index.html",
     "image": "https://mlvgs2.vercel.app/games/ovo/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/ovo/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ovo/index.html"
   },
   {
     "id": "ccg-skidoo-tt",
@@ -271,11 +271,11 @@
     "id": "ccg-2048",
     "title": "2048",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/2048/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/2048/index.html",
     "image": "https://mlvgs2.vercel.app/games/2048/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/2048/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/2048/index.html"
   },
   {
     "id": "ccg-just-one-boss",
@@ -311,11 +311,11 @@
     "id": "ccg-tetris",
     "title": "Tetris",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/tetris/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tetris/index.html",
     "image": "https://mlvgs2.vercel.app/games/tetris/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/tetris/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tetris/index.html"
   },
   {
     "id": "ccg-the-world-s-hardest-game",
@@ -351,11 +351,11 @@
     "id": "ccg-run-2",
     "title": "Run 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/run-2/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/run-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/run-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/run-2/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/run-2/index.html"
   },
   {
     "id": "ccg-duck-life",
@@ -391,11 +391,11 @@
     "id": "ccg-riddle-school-2",
     "title": "Riddle School 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/riddle-school-2/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-school-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/riddle-school-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/riddle-school-2/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-school-2/index.html"
   },
   {
     "id": "ccg-orbitron-3",
@@ -431,11 +431,11 @@
     "id": "ccg-fireboy-and-watergirl",
     "title": "Fireboy and Watergirl",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/fireboy-and-watergirl/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl/index.html",
     "image": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/fireboy-and-watergirl/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl/index.html"
   },
   {
     "id": "ccg-bloons-tower-defense-2",
@@ -461,21 +461,21 @@
     "id": "ccg-soccer-random",
     "title": "Soccer Random",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/soccer-random/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/soccer-random/index.html",
     "image": "https://mlvgs2.vercel.app/games/soccer-random/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/soccer-random/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/soccer-random/index.html"
   },
   {
     "id": "ccg-fireboy-and-watergirl-in-the-forest-temple",
     "title": "Fireboy and Watergirl in the Forest Temple",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/fireboy-and-watergirl-in-the-forest-temple/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl-in-the-forest-temple/index.html",
     "image": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl-in-the-forest-temple/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/fireboy-and-watergirl-in-the-forest-temple/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl-in-the-forest-temple/index.html"
   },
   {
     "id": "ccg-the-i-of-it",
@@ -511,11 +511,11 @@
     "id": "ccg-chome-dinosuar-game",
     "title": "Chome Dinosuar Game",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/chome-dinosuar-game/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/chome-dinosuar-game/index.html",
     "image": "https://mlvgs2.vercel.app/games/chome-dinosuar-game/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/chome-dinosuar-game/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/chome-dinosuar-game/index.html"
   },
   {
     "id": "ccg-boxing-random",
@@ -551,11 +551,11 @@
     "id": "ccg-knife-hit",
     "title": "Knife Hit",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/knife-hit/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/knife-hit/index.html",
     "image": "https://mlvgs2.vercel.app/games/knife-hit/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/knife-hit/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/knife-hit/index.html"
   },
   {
     "id": "ccg-idle-breakout",
@@ -621,11 +621,11 @@
     "id": "ccg-stickman-hook",
     "title": "Stickman Hook",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/stickman-hook/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stickman-hook/index.html",
     "image": "https://mlvgs2.vercel.app/games/stickman-hook/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/stickman-hook/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stickman-hook/index.html"
   },
   {
     "id": "ccg-doodle-jump",
@@ -661,11 +661,11 @@
     "id": "ccg-tower-of-destiny",
     "title": "Tower of Destiny",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/tower-of-destiny/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tower-of-destiny/index.html",
     "image": "https://mlvgs2.vercel.app/games/tower-of-destiny/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/tower-of-destiny/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tower-of-destiny/index.html"
   },
   {
     "id": "ccg-happy-wheels",
@@ -701,11 +701,11 @@
     "id": "ccg-learn-to-fly-2",
     "title": "Learn to Fly 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/learn-to-fly-2/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/learn-to-fly-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/learn-to-fly-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/learn-to-fly-2/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/learn-to-fly-2/index.html"
   },
   {
     "id": "ccg-papa-s-freezeria",
@@ -741,11 +741,11 @@
     "id": "ccg-cannon-basketball-4",
     "title": "Cannon Basketball 4",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/cannon-basketball-4/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/cannon-basketball-4/index.html",
     "image": "https://mlvgs2.vercel.app/games/cannon-basketball-4/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/cannon-basketball-4/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/cannon-basketball-4/index.html"
   },
   {
     "id": "ccg-jacksmith",
@@ -781,11 +781,11 @@
     "id": "ccg-there-is-no-game",
     "title": "There is no Game",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/there-is-no-game/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/there-is-no-game/index.html",
     "image": "https://mlvgs2.vercel.app/games/there-is-no-game/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/there-is-no-game/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/there-is-no-game/index.html"
   },
   {
     "id": "ccg-papa-s-wingeria",
@@ -821,11 +821,11 @@
     "id": "ccg-final-earth-2",
     "title": "Final Earth 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/final-earth-2/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/final-earth-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/final-earth-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/final-earth-2/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/final-earth-2/index.html"
   },
   {
     "id": "ccg-the-impossible-quiz",
@@ -861,11 +861,11 @@
     "id": "ccg-duck-life-4",
     "title": "Duck Life 4",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/duck-life-4/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/duck-life-4/index.html",
     "image": "https://mlvgs2.vercel.app/games/duck-life-4/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/duck-life-4/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/duck-life-4/index.html"
   },
   {
     "id": "ccg-run-3",
@@ -891,11 +891,11 @@
     "id": "ccg-papa-s-pastaria",
     "title": "Papa's Pastaria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/papa-s-pastaria/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-pastaria/index.html",
     "image": "https://mlvgs2.vercel.app/games/papa-s-pastaria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/papa-s-pastaria/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-pastaria/index.html"
   },
   {
     "id": "ccg-parking-fury-2",
@@ -931,11 +931,11 @@
     "id": "ccg-zombotron-ii",
     "title": "Zombotron II",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/zombotron-ii/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/zombotron-ii/index.html",
     "image": "https://mlvgs2.vercel.app/games/zombotron-ii/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/zombotron-ii/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/zombotron-ii/index.html"
   },
   {
     "id": "ccg-zombotron-ii-time-machine",
@@ -971,11 +971,11 @@
     "id": "ccg-papa-s-bakeria",
     "title": "Papa's Bakeria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/papa-s-bakeria/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-bakeria/index.html",
     "image": "https://mlvgs2.vercel.app/games/papa-s-bakeria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/papa-s-bakeria/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-bakeria/index.html"
   },
   {
     "id": "ccg-slow-roads",
@@ -1011,11 +1011,11 @@
     "id": "ccg-iron-snout",
     "title": "Iron Snout",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/iron-snout/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/iron-snout/index.html",
     "image": "https://mlvgs2.vercel.app/games/iron-snout/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/iron-snout/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/iron-snout/index.html"
   },
   {
     "id": "ccg-learn-to-fly-3",
@@ -1041,11 +1041,11 @@
     "id": "ccg-riddle-transfer",
     "title": "Riddle Transfer",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/riddle-transfer/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-transfer/index.html",
     "image": "https://mlvgs2.vercel.app/games/riddle-transfer/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/riddle-transfer/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-transfer/index.html"
   },
   {
     "id": "ccg-dance-of-fire-and-ice",
@@ -1081,11 +1081,11 @@
     "id": "ccg-jetpack-joyride",
     "title": "Jetpack Joyride",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/jetpack-joyride/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/jetpack-joyride/index.html",
     "image": "https://mlvgs2.vercel.app/games/jetpack-joyride/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/jetpack-joyride/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/jetpack-joyride/index.html"
   },
   {
     "id": "ccg-escape-road",
@@ -1121,11 +1121,11 @@
     "id": "ccg-idle-superpowers",
     "title": "Idle Superpowers",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/idle-superpowers/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/idle-superpowers/index.html",
     "image": "https://mlvgs2.vercel.app/games/idle-superpowers/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/idle-superpowers/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/idle-superpowers/index.html"
   },
   {
     "id": "ccg-friday-night-funkin",
@@ -1161,11 +1161,11 @@
     "id": "geo-paper-io-3d",
     "title": "Paper.io 3D",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/paper-io-3d/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/paper-io-3d/index.html",
     "image": "https://mlvgs2.vercel.app/games/paper-io-3d/thumb.jpg",
     "source": "Geography standalone build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/paper-io-3d/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/paper-io-3d/index.html"
   },
   {
     "id": "geo-free-kick-3d",
@@ -1211,10 +1211,10 @@
     "id": "slime-rush-td",
     "title": "Slime Rush TD",
     "category": "Tower Defense",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/slime-rush-td/index.html",
+    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slime-rush-td/index.html",
     "image": "https://mlvgs2.vercel.app/games/slime-rush-td/images/uititle-sheet0.png",
     "source": "Geography standalone Construct 2 build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-2@main/games/slime-rush-td/index.html"
+    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slime-rush-td/index.html"
   }
 ]
