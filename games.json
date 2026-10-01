@@ -3,1218 +3,1218 @@
     "id": "polytrack",
     "title": "PolyTrack",
     "category": "Driving",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/polytrack/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/polytrack/index.html",
     "image": "./game/images/icons/cover1920x1080.png",
     "source": "https://www.kodub.com/",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/polytrack/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/polytrack/index.html"
   },
   {
     "id": "cars-simulator",
     "title": "Cars Simulator",
     "category": "Driving",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/cars-simulator/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/cars-simulator/index.html",
     "image": "./assets/covers/cars-simulator.webp",
     "source": "Y8-hosted WebGL build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/cars-simulator/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/cars-simulator/index.html"
   },
   {
     "id": "coderslife",
     "title": "CodersLife",
     "category": "CUSTOM GAME",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/coderslife/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/coderslife/index.html",
     "image": "./assets/covers/isaiah-custom.svg",
     "source": "Local game made by Isaiah",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/coderslife/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/coderslife/index.html"
   },
   {
     "id": "rainbet",
     "title": "RainBet",
     "category": "CUSTOM GAME",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/rainbet/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/rainbet/index.html",
     "image": "./assets/covers/isaiah-custom.svg",
     "source": "Local game made by Isaiah",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/rainbet/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/rainbet/index.html"
   },
   {
     "id": "escape-road-2",
     "title": "Escape Road 2",
     "category": "Driving",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/escape-road-2/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/escape-road-2/index.html",
     "image": "./assets/covers/escape-road-2.svg",
     "source": "Local WebGL build authorized by AZ Games",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/escape-road-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/escape-road-2/index.html"
   },
   {
     "id": "snow-rider-3d",
     "title": "Snow Rider 3D",
     "category": "Driving",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/snow-rider-3d/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/snow-rider-3d/index.html",
     "image": "./assets/covers/snow-rider-3d.svg",
     "source": "Local WebGL game",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/snow-rider-3d/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/snow-rider-3d/index.html"
   },
   {
     "id": "slope",
     "title": "Slope",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slope/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/slope/index.html",
     "image": "./assets/covers/slope.jpg",
     "source": "Local WebGL build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slope/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/slope/index.html"
   },
   {
     "id": "tiny-fishing",
     "title": "Tiny Fishing",
     "category": "Casual",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/tiny-fishing/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/tiny-fishing/index.html",
     "image": "./assets/covers/tiny-fishing.png",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/tiny-fishing/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/tiny-fishing/index.html"
   },
   {
     "id": "moto-x3m",
     "title": "Moto X3M",
     "category": "Racing",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/moto-x3m/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/moto-x3m/index.html",
     "image": "./assets/covers/moto-x3m.jpg",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/moto-x3m/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/moto-x3m/index.html"
   },
   {
     "id": "moto-x3m-spooky-land",
     "title": "Moto X3M Spooky Land",
     "category": "Racing",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/moto-x3m-spooky-land/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/moto-x3m-spooky-land/index.html",
     "image": "./assets/covers/moto-x3m-spooky-land.webp",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/moto-x3m-spooky-land/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/moto-x3m-spooky-land/index.html"
   },
   {
     "id": "moto-x3m-winter",
     "title": "Moto X3M Winter",
     "category": "Racing",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/moto-x3m-winter/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/moto-x3m-winter/index.html",
     "image": "./assets/covers/moto-x3m-winter.webp",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/moto-x3m-winter/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/moto-x3m-winter/index.html"
   },
   {
     "id": "moto-x3m-pool-party",
     "title": "Moto X3M Pool Party",
     "category": "Racing",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/moto-x3m-pool-party/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/moto-x3m-pool-party/index.html",
     "image": "./assets/covers/moto-x3m-pool-party.webp",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/moto-x3m-pool-party/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/moto-x3m-pool-party/index.html"
   },
   {
     "id": "moto-x3m-2",
     "title": "Moto X3M 2",
     "category": "Racing",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/moto-x3m-2/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/moto-x3m-2/index.html",
     "image": "./assets/covers/moto-x3m-2.webp",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/moto-x3m-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/moto-x3m-2/index.html"
   },
   {
     "id": "moto-x3m-3",
     "title": "Moto X3M 3",
     "category": "Racing",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/moto-x3m-3/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/moto-x3m-3/index.html",
     "image": "./assets/covers/moto-x3m-3.webp",
     "source": "Local HTML5 build",
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/moto-x3m-3/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/moto-x3m-3/index.html"
   },
   {
     "id": "ccg-hollow-knight",
     "title": "Hollow Knight",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/hollow-knight/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/hollow-knight/index.html",
     "image": "https://mlvgs1.vercel.app/games/hollow-knight/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/hollow-knight/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/hollow-knight/index.html"
   },
   {
     "id": "ccg-getting-over-it",
     "title": "Getting Over It",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/getting-over-it/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/getting-over-it/index.html",
     "image": "https://mlvgs2.vercel.app/games/getting-over-it/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/getting-over-it/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/getting-over-it/index.html"
   },
   {
     "id": "ccg-toss-the-turtle",
     "title": "Toss The Turtle",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/toss-the-turtle/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/toss-the-turtle/index.html",
     "image": "https://mlvgs4.vercel.app/games/toss-the-turtle/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/toss-the-turtle/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/toss-the-turtle/index.html"
   },
   {
     "id": "ccg-ballz",
     "title": "BallZ",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ballz/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/ballz/index.html",
     "image": "https://mlvgs2.vercel.app/games/ballz/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ballz/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/ballz/index.html"
   },
   {
     "id": "ccg-spacebar-clicker",
     "title": "Spacebar Clicker",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/spacebar-clicker/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/spacebar-clicker/index.html",
     "image": "https://mlvgs3.vercel.app/games/spacebar-clicker/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/spacebar-clicker/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/spacebar-clicker/index.html"
   },
   {
     "id": "ccg-undertale-yellow",
     "title": "Undertale Yellow",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/undertale-yellow/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/undertale-yellow/index.html",
     "image": "https://mlvgs4.vercel.app/games/undertale-yellow/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/undertale-yellow/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/undertale-yellow/index.html"
   },
   {
     "id": "ccg-solitaire",
     "title": "Solitaire",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/solitaire/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/solitaire/index.html",
     "image": "https://mlvgs1.vercel.app/games/solitaire/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/solitaire/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/solitaire/index.html"
   },
   {
     "id": "ccg-stack",
     "title": "Stack",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stack/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/stack/index.html",
     "image": "https://mlvgs2.vercel.app/games/stack/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stack/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/stack/index.html"
   },
   {
     "id": "ccg-the-binding-of-isaac",
     "title": "The Binding Of Isaac",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-binding-of-isaac/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/the-binding-of-isaac/index.html",
     "image": "https://mlvgs3.vercel.app/games/the-binding-of-isaac/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-binding-of-isaac/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/the-binding-of-isaac/index.html"
   },
   {
     "id": "ccg-space-huggers",
     "title": "Space Huggers",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/space-huggers/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/space-huggers/index.html",
     "image": "https://mlvgs4.vercel.app/games/space-huggers/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/space-huggers/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/space-huggers/index.html"
   },
   {
     "id": "ccg-ovo",
     "title": "OVO",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ovo/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/ovo/index.html",
     "image": "https://mlvgs2.vercel.app/games/ovo/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/ovo/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/ovo/index.html"
   },
   {
     "id": "ccg-skidoo-tt",
     "title": "Skidoo TT",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/skidoo-tt/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/skidoo-tt/index.html",
     "image": "https://mlvgs3.vercel.app/games/skidoo-tt/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/skidoo-tt/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/skidoo-tt/index.html"
   },
   {
     "id": "ccg-chess",
     "title": "Chess",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/chess/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/chess/index.html",
     "image": "https://mlvgs4.vercel.app/games/chess/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/chess/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/chess/index.html"
   },
   {
     "id": "ccg-bloons-tower-defense-1",
     "title": "Bloons Tower Defense 1",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-1/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-1/index.html",
     "image": "https://mlvgs1.vercel.app/games/bloons-tower-defense-1/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-1/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-1/index.html"
   },
   {
     "id": "ccg-2048",
     "title": "2048",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/2048/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/2048/index.html",
     "image": "https://mlvgs2.vercel.app/games/2048/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/2048/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/2048/index.html"
   },
   {
     "id": "ccg-just-one-boss",
     "title": "Just One Boss",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/just-one-boss/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/just-one-boss/index.html",
     "image": "https://mlvgs3.vercel.app/games/just-one-boss/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/just-one-boss/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/just-one-boss/index.html"
   },
   {
     "id": "ccg-riddle-school",
     "title": "Riddle School",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/riddle-school/index.html",
     "image": "https://mlvgs4.vercel.app/games/riddle-school/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/riddle-school/index.html"
   },
   {
     "id": "ccg-undertale",
     "title": "UNDERTALE",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/undertale/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/undertale/index.html",
     "image": "https://mlvgs1.vercel.app/games/undertale/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/undertale/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/undertale/index.html"
   },
   {
     "id": "ccg-tetris",
     "title": "Tetris",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tetris/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/tetris/index.html",
     "image": "https://mlvgs2.vercel.app/games/tetris/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tetris/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/tetris/index.html"
   },
   {
     "id": "ccg-the-world-s-hardest-game",
     "title": "The World's Hardest Game",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-world-s-hardest-game/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/the-world-s-hardest-game/index.html",
     "image": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-world-s-hardest-game/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/the-world-s-hardest-game/index.html"
   },
   {
     "id": "ccg-do-not-crash",
     "title": "Do Not Crash",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/do-not-crash/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/do-not-crash/index.html",
     "image": "https://mlvgs4.vercel.app/games/do-not-crash/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/do-not-crash/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/do-not-crash/index.html"
   },
   {
     "id": "ccg-learn-to-fly",
     "title": "Learn to Fly",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/learn-to-fly/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/learn-to-fly/index.html",
     "image": "https://mlvgs1.vercel.app/games/learn-to-fly/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/learn-to-fly/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/learn-to-fly/index.html"
   },
   {
     "id": "ccg-run-2",
     "title": "Run 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/run-2/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/run-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/run-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/run-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/run-2/index.html"
   },
   {
     "id": "ccg-duck-life",
     "title": "Duck Life",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/duck-life/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/duck-life/index.html",
     "image": "https://mlvgs3.vercel.app/games/duck-life/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/duck-life/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/duck-life/index.html"
   },
   {
     "id": "ccg-suika-game",
     "title": "Suika Game",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/suika-game/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/suika-game/index.html",
     "image": "https://mlvgs4.vercel.app/games/suika-game/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/suika-game/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/suika-game/index.html"
   },
   {
     "id": "ccg-bloons-tower-defense-3",
     "title": "Bloons Tower Defense 3",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-3/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-3/index.html",
     "image": "https://mlvgs1.vercel.app/games/bloons-tower-defense-3/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-3/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-3/index.html"
   },
   {
     "id": "ccg-riddle-school-2",
     "title": "Riddle School 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-school-2/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/riddle-school-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/riddle-school-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-school-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/riddle-school-2/index.html"
   },
   {
     "id": "ccg-orbitron-3",
     "title": "Orbitron 3",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/orbitron-3/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/orbitron-3/index.html",
     "image": "https://mlvgs3.vercel.app/games/orbitron-3/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/orbitron-3/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/orbitron-3/index.html"
   },
   {
     "id": "ccg-flappy-bird",
     "title": "Flappy Bird",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/flappy-bird/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/flappy-bird/index.html",
     "image": "https://mlvgs4.vercel.app/games/flappy-bird/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/flappy-bird/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/flappy-bird/index.html"
   },
   {
     "id": "ccg-intercepter",
     "title": "Intercepter",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/intercepter/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/intercepter/index.html",
     "image": "https://mlvgs1.vercel.app/games/intercepter/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/intercepter/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/intercepter/index.html"
   },
   {
     "id": "ccg-fireboy-and-watergirl",
     "title": "Fireboy and Watergirl",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/fireboy-and-watergirl/index.html",
     "image": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/fireboy-and-watergirl/index.html"
   },
   {
     "id": "ccg-bloons-tower-defense-2",
     "title": "Bloons Tower Defense 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/bloons-tower-defense-2/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/bloons-tower-defense-2/index.html",
     "image": "https://mlvgs3.vercel.app/games/bloons-tower-defense-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/bloons-tower-defense-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/bloons-tower-defense-2/index.html"
   },
   {
     "id": "ccg-bloxorz",
     "title": "Bloxorz",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloxorz/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/bloxorz/index.html",
     "image": "https://mlvgs1.vercel.app/games/bloxorz/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloxorz/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/bloxorz/index.html"
   },
   {
     "id": "ccg-soccer-random",
     "title": "Soccer Random",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/soccer-random/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/soccer-random/index.html",
     "image": "https://mlvgs2.vercel.app/games/soccer-random/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/soccer-random/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/soccer-random/index.html"
   },
   {
     "id": "ccg-fireboy-and-watergirl-in-the-forest-temple",
     "title": "Fireboy and Watergirl in the Forest Temple",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl-in-the-forest-temple/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/fireboy-and-watergirl-in-the-forest-temple/index.html",
     "image": "https://mlvgs2.vercel.app/games/fireboy-and-watergirl-in-the-forest-temple/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/fireboy-and-watergirl-in-the-forest-temple/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/fireboy-and-watergirl-in-the-forest-temple/index.html"
   },
   {
     "id": "ccg-the-i-of-it",
     "title": "The I of It",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-i-of-it/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/the-i-of-it/index.html",
     "image": "https://mlvgs3.vercel.app/games/the-i-of-it/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-i-of-it/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/the-i-of-it/index.html"
   },
   {
     "id": "ccg-boxel-rebound",
     "title": "Boxel Rebound",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/boxel-rebound/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/boxel-rebound/index.html",
     "image": "https://mlvgs4.vercel.app/games/boxel-rebound/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/boxel-rebound/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/boxel-rebound/index.html"
   },
   {
     "id": "ccg-that-so-fun-game-of-killing-things",
     "title": "That So Fun Game Of Killing Things",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/that-so-fun-game-of-killing-things/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/that-so-fun-game-of-killing-things/index.html",
     "image": "https://mlvgs1.vercel.app/games/that-so-fun-game-of-killing-things/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/that-so-fun-game-of-killing-things/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/that-so-fun-game-of-killing-things/index.html"
   },
   {
     "id": "ccg-chome-dinosuar-game",
     "title": "Chome Dinosuar Game",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/chome-dinosuar-game/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/chome-dinosuar-game/index.html",
     "image": "https://mlvgs2.vercel.app/games/chome-dinosuar-game/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/chome-dinosuar-game/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/chome-dinosuar-game/index.html"
   },
   {
     "id": "ccg-boxing-random",
     "title": "Boxing Random",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/boxing-random/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/boxing-random/index.html",
     "image": "https://mlvgs3.vercel.app/games/boxing-random/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/boxing-random/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/boxing-random/index.html"
   },
   {
     "id": "ccg-papa-s-pizzeria",
     "title": "Papa's Pizzeria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/papa-s-pizzeria/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/papa-s-pizzeria/index.html",
     "image": "https://mlvgs4.vercel.app/games/papa-s-pizzeria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/papa-s-pizzeria/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/papa-s-pizzeria/index.html"
   },
   {
     "id": "ccg-learn-to-fly-idle",
     "title": "Learn to Fly Idle",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/learn-to-fly-idle/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/learn-to-fly-idle/index.html",
     "image": "https://mlvgs1.vercel.app/games/learn-to-fly-idle/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/learn-to-fly-idle/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/learn-to-fly-idle/index.html"
   },
   {
     "id": "ccg-knife-hit",
     "title": "Knife Hit",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/knife-hit/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/knife-hit/index.html",
     "image": "https://mlvgs2.vercel.app/games/knife-hit/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/knife-hit/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/knife-hit/index.html"
   },
   {
     "id": "ccg-idle-breakout",
     "title": "Idle Breakout",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/idle-breakout/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/idle-breakout/index.html",
     "image": "https://mlvgs3.vercel.app/games/idle-breakout/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/idle-breakout/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/idle-breakout/index.html"
   },
   {
     "id": "ccg-drive-mad",
     "title": "Drive Mad",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/drive-mad/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/drive-mad/index.html",
     "image": "https://mlvgs4.vercel.app/games/drive-mad/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/drive-mad/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/drive-mad/index.html"
   },
   {
     "id": "ccg-choppy-orc",
     "title": "Choppy Orc",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/choppy-orc/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/choppy-orc/index.html",
     "image": "https://mlvgs1.vercel.app/games/choppy-orc/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/choppy-orc/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/choppy-orc/index.html"
   },
   {
     "id": "ccg-volley-random",
     "title": "Volley Random",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/volley-random/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/volley-random/index.html",
     "image": "https://mlvgs3.vercel.app/games/volley-random/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/volley-random/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/volley-random/index.html"
   },
   {
     "id": "ccg-basket-random",
     "title": "Basket Random",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/basket-random/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/basket-random/index.html",
     "image": "https://mlvgs4.vercel.app/games/basket-random/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/basket-random/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/basket-random/index.html"
   },
   {
     "id": "ccg-big-tower-tiny-square",
     "title": "Big Tower Tiny Square",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/big-tower-tiny-square/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/big-tower-tiny-square/index.html",
     "image": "https://mlvgs1.vercel.app/games/big-tower-tiny-square/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/big-tower-tiny-square/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/big-tower-tiny-square/index.html"
   },
   {
     "id": "ccg-stickman-hook",
     "title": "Stickman Hook",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stickman-hook/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/stickman-hook/index.html",
     "image": "https://mlvgs2.vercel.app/games/stickman-hook/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/stickman-hook/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/stickman-hook/index.html"
   },
   {
     "id": "ccg-doodle-jump",
     "title": "Doodle Jump",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/doodle-jump/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/doodle-jump/index.html",
     "image": "https://mlvgs3.vercel.app/games/doodle-jump/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/doodle-jump/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/doodle-jump/index.html"
   },
   {
     "id": "ccg-soccer-heads",
     "title": "Soccer Heads",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/soccer-heads/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/soccer-heads/index.html",
     "image": "https://mlvgs4.vercel.app/games/soccer-heads/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/soccer-heads/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/soccer-heads/index.html"
   },
   {
     "id": "ccg-block-blast",
     "title": "Block Blast",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/block-blast/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/block-blast/index.html",
     "image": "https://mlvgs1.vercel.app/games/block-blast/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/block-blast/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/block-blast/index.html"
   },
   {
     "id": "ccg-tower-of-destiny",
     "title": "Tower of Destiny",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tower-of-destiny/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/tower-of-destiny/index.html",
     "image": "https://mlvgs2.vercel.app/games/tower-of-destiny/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/tower-of-destiny/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/tower-of-destiny/index.html"
   },
   {
     "id": "ccg-happy-wheels",
     "title": "Happy Wheels",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/happy-wheels/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/happy-wheels/index.html",
     "image": "https://mlvgs3.vercel.app/games/happy-wheels/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/happy-wheels/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/happy-wheels/index.html"
   },
   {
     "id": "ccg-mainland-wars",
     "title": "Mainland Wars",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/mainland-wars/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/mainland-wars/index.html",
     "image": "https://mlvgs1.vercel.app/games/mainland-wars/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/mainland-wars/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/mainland-wars/index.html"
   },
   {
     "id": "ccg-papa-s-tacomia",
     "title": "Papa's Tacomia",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/papa-s-tacomia/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/papa-s-tacomia/index.html",
     "image": "https://mlvgs1.vercel.app/games/papa-s-tacomia/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/papa-s-tacomia/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/papa-s-tacomia/index.html"
   },
   {
     "id": "ccg-learn-to-fly-2",
     "title": "Learn to Fly 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/learn-to-fly-2/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/learn-to-fly-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/learn-to-fly-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/learn-to-fly-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/learn-to-fly-2/index.html"
   },
   {
     "id": "ccg-papa-s-freezeria",
     "title": "Papa's Freezeria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/papa-s-freezeria/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/papa-s-freezeria/index.html",
     "image": "https://mlvgs3.vercel.app/games/papa-s-freezeria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/papa-s-freezeria/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/papa-s-freezeria/index.html"
   },
   {
     "id": "ccg-riddle-school-4",
     "title": "Riddle School 4",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school-4/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/riddle-school-4/index.html",
     "image": "https://mlvgs4.vercel.app/games/riddle-school-4/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school-4/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/riddle-school-4/index.html"
   },
   {
     "id": "ccg-bejeweled",
     "title": "Bejeweled",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bejeweled/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/bejeweled/index.html",
     "image": "https://mlvgs1.vercel.app/games/bejeweled/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bejeweled/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/bejeweled/index.html"
   },
   {
     "id": "ccg-cannon-basketball-4",
     "title": "Cannon Basketball 4",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/cannon-basketball-4/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/cannon-basketball-4/index.html",
     "image": "https://mlvgs2.vercel.app/games/cannon-basketball-4/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/cannon-basketball-4/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/cannon-basketball-4/index.html"
   },
   {
     "id": "ccg-jacksmith",
     "title": "Jacksmith",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/jacksmith/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/jacksmith/index.html",
     "image": "https://mlvgs3.vercel.app/games/jacksmith/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/jacksmith/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/jacksmith/index.html"
   },
   {
     "id": "ccg-level-devil",
     "title": "Level Devil",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/level-devil/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/level-devil/index.html",
     "image": "https://mlvgs4.vercel.app/games/level-devil/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/level-devil/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/level-devil/index.html"
   },
   {
     "id": "ccg-idle-dice",
     "title": "Idle Dice",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/idle-dice/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/idle-dice/index.html",
     "image": "https://mlvgs1.vercel.app/games/idle-dice/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/idle-dice/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/idle-dice/index.html"
   },
   {
     "id": "ccg-there-is-no-game",
     "title": "There is no Game",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/there-is-no-game/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/there-is-no-game/index.html",
     "image": "https://mlvgs2.vercel.app/games/there-is-no-game/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/there-is-no-game/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/there-is-no-game/index.html"
   },
   {
     "id": "ccg-papa-s-wingeria",
     "title": "Papa's Wingeria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/papa-s-wingeria/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/papa-s-wingeria/index.html",
     "image": "https://mlvgs3.vercel.app/games/papa-s-wingeria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/papa-s-wingeria/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/papa-s-wingeria/index.html"
   },
   {
     "id": "ccg-riddle-school-3",
     "title": "Riddle School 3",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school-3/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/riddle-school-3/index.html",
     "image": "https://mlvgs4.vercel.app/games/riddle-school-3/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school-3/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/riddle-school-3/index.html"
   },
   {
     "id": "ccg-cookie-clicker",
     "title": "Cookie Clicker",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/cookie-clicker/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/cookie-clicker/index.html",
     "image": "https://mlvgs1.vercel.app/games/cookie-clicker/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/cookie-clicker/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/cookie-clicker/index.html"
   },
   {
     "id": "ccg-final-earth-2",
     "title": "Final Earth 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/final-earth-2/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/final-earth-2/index.html",
     "image": "https://mlvgs2.vercel.app/games/final-earth-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/final-earth-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/final-earth-2/index.html"
   },
   {
     "id": "ccg-the-impossible-quiz",
     "title": "The Impossible Quiz",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-impossible-quiz/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/the-impossible-quiz/index.html",
     "image": "https://mlvgs3.vercel.app/games/the-impossible-quiz/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-impossible-quiz/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/the-impossible-quiz/index.html"
   },
   {
     "id": "ccg-zombotron",
     "title": "Zombotron",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/zombotron/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/zombotron/index.html",
     "image": "https://mlvgs4.vercel.app/games/zombotron/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/zombotron/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/zombotron/index.html"
   },
   {
     "id": "ccg-rooftop-snipers",
     "title": "Rooftop Snipers",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/rooftop-snipers/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/rooftop-snipers/index.html",
     "image": "https://mlvgs1.vercel.app/games/rooftop-snipers/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/rooftop-snipers/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/rooftop-snipers/index.html"
   },
   {
     "id": "ccg-duck-life-4",
     "title": "Duck Life 4",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/duck-life-4/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/duck-life-4/index.html",
     "image": "https://mlvgs2.vercel.app/games/duck-life-4/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/duck-life-4/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/duck-life-4/index.html"
   },
   {
     "id": "ccg-run-3",
     "title": "Run 3",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/run-3/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/run-3/index.html",
     "image": "https://mlvgs3.vercel.app/games/run-3/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/run-3/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/run-3/index.html"
   },
   {
     "id": "ccg-bloons-tower-defense-4",
     "title": "Bloons Tower Defense 4",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-4/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-4/index.html",
     "image": "https://mlvgs1.vercel.app/games/bloons-tower-defense-4/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-4/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-4/index.html"
   },
   {
     "id": "ccg-papa-s-pastaria",
     "title": "Papa's Pastaria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-pastaria/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/papa-s-pastaria/index.html",
     "image": "https://mlvgs2.vercel.app/games/papa-s-pastaria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-pastaria/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/papa-s-pastaria/index.html"
   },
   {
     "id": "ccg-parking-fury-2",
     "title": "Parking Fury 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/parking-fury-2/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/parking-fury-2/index.html",
     "image": "https://mlvgs3.vercel.app/games/parking-fury-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/parking-fury-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/parking-fury-2/index.html"
   },
   {
     "id": "ccg-pac-man",
     "title": "Pac Man",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/pac-man/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/pac-man/index.html",
     "image": "https://mlvgs4.vercel.app/games/pac-man/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/pac-man/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/pac-man/index.html"
   },
   {
     "id": "ccg-bloons-tower-defense-5",
     "title": "Bloons Tower Defense 5",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-5/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-5/index.html",
     "image": "https://mlvgs1.vercel.app/games/bloons-tower-defense-5/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/bloons-tower-defense-5/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/bloons-tower-defense-5/index.html"
   },
   {
     "id": "ccg-zombotron-ii",
     "title": "Zombotron II",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/zombotron-ii/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/zombotron-ii/index.html",
     "image": "https://mlvgs2.vercel.app/games/zombotron-ii/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/zombotron-ii/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/zombotron-ii/index.html"
   },
   {
     "id": "ccg-zombotron-ii-time-machine",
     "title": "Zombotron II: Time Machine",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/zombotron-ii-time-machine/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/zombotron-ii-time-machine/index.html",
     "image": "https://mlvgs3.vercel.app/games/zombotron-ii-time-machine/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/zombotron-ii-time-machine/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/zombotron-ii-time-machine/index.html"
   },
   {
     "id": "ccg-sandboxels",
     "title": "Sandboxels",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/sandboxels/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/sandboxels/index.html",
     "image": "https://mlvgs4.vercel.app/games/sandboxels/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/sandboxels/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/sandboxels/index.html"
   },
   {
     "id": "ccg-getaway-shootout",
     "title": "Getaway Shootout",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/getaway-shootout/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/getaway-shootout/index.html",
     "image": "https://mlvgs1.vercel.app/games/getaway-shootout/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/getaway-shootout/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/getaway-shootout/index.html"
   },
   {
     "id": "ccg-papa-s-bakeria",
     "title": "Papa's Bakeria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-bakeria/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/papa-s-bakeria/index.html",
     "image": "https://mlvgs2.vercel.app/games/papa-s-bakeria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/papa-s-bakeria/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/papa-s-bakeria/index.html"
   },
   {
     "id": "ccg-slow-roads",
     "title": "Slow Roads",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/slow-roads/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/slow-roads/index.html",
     "image": "https://mlvgs3.vercel.app/games/slow-roads/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/slow-roads/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/slow-roads/index.html"
   },
   {
     "id": "ccg-riddle-school-5",
     "title": "Riddle School 5",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school-5/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/riddle-school-5/index.html",
     "image": "https://mlvgs4.vercel.app/games/riddle-school-5/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/riddle-school-5/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/riddle-school-5/index.html"
   },
   {
     "id": "ccg-papa-s-sushiria",
     "title": "Papa's Sushiria",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/papa-s-sushiria/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/papa-s-sushiria/index.html",
     "image": "https://mlvgs1.vercel.app/games/papa-s-sushiria/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/papa-s-sushiria/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/papa-s-sushiria/index.html"
   },
   {
     "id": "ccg-iron-snout",
     "title": "Iron Snout",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/iron-snout/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/iron-snout/index.html",
     "image": "https://mlvgs2.vercel.app/games/iron-snout/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/iron-snout/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/iron-snout/index.html"
   },
   {
     "id": "ccg-learn-to-fly-3",
     "title": "Learn to Fly 3",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/learn-to-fly-3/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/learn-to-fly-3/index.html",
     "image": "https://mlvgs4.vercel.app/games/learn-to-fly-3/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/learn-to-fly-3/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/learn-to-fly-3/index.html"
   },
   {
     "id": "ccg-riddle-transfer-2",
     "title": "Riddle Transfer 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/riddle-transfer-2/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/riddle-transfer-2/index.html",
     "image": "https://mlvgs1.vercel.app/games/riddle-transfer-2/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/riddle-transfer-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/riddle-transfer-2/index.html"
   },
   {
     "id": "ccg-riddle-transfer",
     "title": "Riddle Transfer",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-transfer/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/riddle-transfer/index.html",
     "image": "https://mlvgs2.vercel.app/games/riddle-transfer/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/riddle-transfer/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/riddle-transfer/index.html"
   },
   {
     "id": "ccg-dance-of-fire-and-ice",
     "title": "Dance of Fire and Ice",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/dance-of-fire-and-ice/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/dance-of-fire-and-ice/index.html",
     "image": "https://mlvgs3.vercel.app/games/dance-of-fire-and-ice/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/dance-of-fire-and-ice/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/dance-of-fire-and-ice/index.html"
   },
   {
     "id": "ccg-bitlife",
     "title": "BitLife",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/bitlife/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/bitlife/index.html",
     "image": "https://mlvgs4.vercel.app/games/bitlife/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/bitlife/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/bitlife/index.html"
   },
   {
     "id": "ccg-five-nights-at-freddy-s",
     "title": "Five Nights At Freddy's",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/five-nights-at-freddy-s/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/five-nights-at-freddy-s/index.html",
     "image": "https://mlvgs1.vercel.app/games/five-nights-at-freddy-s/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/five-nights-at-freddy-s/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/five-nights-at-freddy-s/index.html"
   },
   {
     "id": "ccg-jetpack-joyride",
     "title": "Jetpack Joyride",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/jetpack-joyride/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/jetpack-joyride/index.html",
     "image": "https://mlvgs2.vercel.app/games/jetpack-joyride/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/jetpack-joyride/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/jetpack-joyride/index.html"
   },
   {
     "id": "ccg-escape-road",
     "title": "Escape Road",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/escape-road/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/escape-road/index.html",
     "image": "https://mlvgs3.vercel.app/games/escape-road/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/escape-road/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/escape-road/index.html"
   },
   {
     "id": "ccg-retro-bowl",
     "title": "Retro Bowl",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/retro-bowl/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/retro-bowl/index.html",
     "image": "https://mlvgs4.vercel.app/games/retro-bowl/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/retro-bowl/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/retro-bowl/index.html"
   },
   {
     "id": "ccg-cut-the-rope",
     "title": "Cut the Rope",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/cut-the-rope/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/cut-the-rope/index.html",
     "image": "https://mlvgs1.vercel.app/games/cut-the-rope/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/cut-the-rope/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/cut-the-rope/index.html"
   },
   {
     "id": "ccg-idle-superpowers",
     "title": "Idle Superpowers",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/idle-superpowers/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/idle-superpowers/index.html",
     "image": "https://mlvgs2.vercel.app/games/idle-superpowers/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/idle-superpowers/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/idle-superpowers/index.html"
   },
   {
     "id": "ccg-friday-night-funkin",
     "title": "Friday Night Funkin'",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/friday-night-funkin/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/friday-night-funkin/index.html",
     "image": "https://mlvgs3.vercel.app/games/friday-night-funkin/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/friday-night-funkin/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/friday-night-funkin/index.html"
   },
   {
     "id": "ccg-eaglercraftx-1-8",
     "title": "EaglercraftX 1.8",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/eaglercraftx-1-8/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/eaglercraftx-1-8/index.html",
     "image": "https://mlvgs4.vercel.app/games/eaglercraftx-1-8/thumb.jpg",
     "source": "CCGStatic self-contained build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/eaglercraftx-1-8/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/eaglercraftx-1-8/index.html"
   },
   {
     "id": "geo-paper-io-2",
     "title": "Paper.io 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/paper-io-2/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/paper-io-2/index.html",
     "image": "https://mlvgs1.vercel.app/games/paper-io-2/thumb.jpg",
     "source": "Geography standalone build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/paper-io-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/paper-io-2/index.html"
   },
   {
     "id": "geo-paper-io-3d",
     "title": "Paper.io 3D",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/paper-io-3d/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/paper-io-3d/index.html",
     "image": "https://mlvgs2.vercel.app/games/paper-io-3d/thumb.jpg",
     "source": "Geography standalone build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/paper-io-3d/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/paper-io-3d/index.html"
   },
   {
     "id": "geo-free-kick-3d",
     "title": "3D Free Kick",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/free-kick-3d/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/free-kick-3d/index.html",
     "image": "https://mlvgs3.vercel.app/games/free-kick-3d/thumb.jpg",
     "source": "Geography standalone build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/free-kick-3d/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/free-kick-3d/index.html"
   },
   {
     "id": "geo-achievement-unlocked",
     "title": "Achievement Unlocked",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/achievement-unlocked/index.html",
+    "src": "https://idkmod12.github.io/games-4/games/achievement-unlocked/index.html",
     "image": "https://mlvgs4.vercel.app/games/achievement-unlocked/thumb.jpg",
     "source": "Geography standalone build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-4@main/games/achievement-unlocked/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-4/games/achievement-unlocked/index.html"
   },
   {
     "id": "geo-adventure-drivers",
     "title": "Adventure Drivers",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/adventure-drivers/index.html",
+    "src": "https://idkmod12.github.io/games-1/games/adventure-drivers/index.html",
     "image": "https://mlvgs1.vercel.app/games/adventure-drivers/thumb.jpg",
     "source": "Geography standalone build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-1@main/games/adventure-drivers/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-1/games/adventure-drivers/index.html"
   },
   {
     "id": "ccg-the-world-s-hardest-game-2",
     "title": "The World's Hardest Game 2",
     "category": "Arcade",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-world-s-hardest-game-2/index.html",
+    "src": "https://idkmod12.github.io/games-3/games/the-world-s-hardest-game-2/index.html",
     "image": "https://mlvgs3.vercel.app/games/the-world-s-hardest-game-2/thumb.jpg",
     "source": "CCGStatic hosted build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/games-3@main/games/the-world-s-hardest-game-2/index.html"
+    "hostUrl": "https://idkmod12.github.io/games-3/games/the-world-s-hardest-game-2/index.html"
   },
   {
     "id": "slime-rush-td",
     "title": "Slime Rush TD",
     "category": "Tower Defense",
-    "src": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slime-rush-td/index.html",
+    "src": "https://idkmod12.github.io/isaiahmlv/games/slime-rush-td/index.html",
     "image": "https://mlvgs2.vercel.app/games/slime-rush-td/images/uititle-sheet0.png",
     "source": "Geography standalone Construct 2 build",
     "local": true,
-    "hostUrl": "https://cdn.jsdelivr.net/gh/idkmod12/isaiahmlv@main/games/slime-rush-td/index.html"
+    "hostUrl": "https://idkmod12.github.io/isaiahmlv/games/slime-rush-td/index.html"
   }
 ]
